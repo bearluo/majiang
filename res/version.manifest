@@ -1,0 +1,9 @@
+{
+  "packageUrl": "http://maj.woyaohaoyun.com/Public/app/updateapp/1.0.4/android/", 
+  "searchPaths": [], 
+  "assets": {}, 
+  "remoteVersionUrl": "http://maj.woyaohaoyun.com/Public/app/updateapp/1.0.4/android/res/version.manifest", 
+  "version": "1.0.0", 
+  "engineVersion": "Cocos2dx-lua 3.6.5", 
+  "remoteManifestUrl": "http://maj.woyaohaoyun.com/Public/app/updateapp/1.0.4/android/res/project.manifest"
+}

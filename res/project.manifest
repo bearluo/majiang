@@ -1,0 +1,4378 @@
+{
+  "assets": {
+    "res/accounts_2_dialog.json": {
+      "md5": "ac691c1f8cb483510dc62b560c95735e"
+    }, 
+    "res/accounts_dialog.json": {
+      "md5": "4814fb324ee01eb8962cd8517757917a"
+    }, 
+    "res/accounts_item.json": {
+      "md5": "9f5a1371417fe9fbdfea03e00374f59e"
+    }, 
+    "res/action_btn_view.json": {
+      "md5": "8a6baaed29fede72f3ad88988d9dcf6f"
+    }, 
+    "res/actions_select_view.json": {
+      "md5": "d0251471868218340a274a8ca8d5edf6"
+    }, 
+    "res/activity_dialog.json": {
+      "md5": "c55cff4bc2838fea1206807b29598f52"
+    }, 
+    "res/anim/baozha/baozha.csb": {
+      "md5": "3b0a558ae20508e83e0732d76fbfc769"
+    }, 
+    "res/anim/baozha/baozha.png": {
+      "md5": "dcd5b080e3a4f9890f5c0e043d60f1da"
+    }, 
+    "res/anim/baozha/bazha_1.png": {
+      "md5": "6b6795b714d47e126ef7d8586c98d0ad"
+    }, 
+    "res/anim/bian/bian.csb": {
+      "md5": "b31327393b08f081f0728d51314b769c"
+    }, 
+    "res/anim/bian/bian_1.png": {
+      "md5": "9b6db13014ced1cc94876e628f06df2b"
+    }, 
+    "res/anim/bian/bian_2.png": {
+      "md5": "9b08aa306d3255c3a149c20ff6c3b654"
+    }, 
+    "res/anim/bian/bian_3.png": {
+      "md5": "24d8050a81acc4ebb57c7d2fccbd3a29"
+    }, 
+    "res/anim/bian/bian_4.png": {
+      "md5": "9450d6330f6290fa8a7ae94086236047"
+    }, 
+    "res/anim/gang/gang-_1.png": {
+      "md5": "8ea2df15da2abc8f5e68ab910889f58b"
+    }, 
+    "res/anim/gang/gang.csb": {
+      "md5": "d1d9a9e701c8bca063a8c83850ed64ea"
+    }, 
+    "res/anim/gang/gang.png": {
+      "md5": "72a1c149656edad0292044a2b30c9a28"
+    }, 
+    "res/anim/gang/gang_2.png": {
+      "md5": "daaff7eb795333234edc78f19d84d89b"
+    }, 
+    "res/anim/hupai/HU1.png": {
+      "md5": "9593a76ce2d1b2b1343d28c6e838d89a"
+    }, 
+    "res/anim/hupai/HU_2.png": {
+      "md5": "b180828b9aeb787b37e3638e16269033"
+    }, 
+    "res/anim/hupai/guaghuan.png": {
+      "md5": "fcc4904684e67efa6dd13e8bd5832986"
+    }, 
+    "res/anim/hupai/hupai.csb": {
+      "md5": "ea3d9b05408d0c8f3dcbd8e2539d82ea"
+    }, 
+    "res/anim/hupai/levelup_.png": {
+      "md5": "ec2ed44e71ad51e125736ab605c04335"
+    }, 
+    "res/anim/hupai/levelup_0004.png": {
+      "md5": "53145e6766d19999a82d60b5c034c8a4"
+    }, 
+    "res/anim/hupai/levelup_0005.png": {
+      "md5": "0f8c49445d020dafe02e08b1c6a11d42"
+    }, 
+    "res/anim/peng/front_block_image_29.png": {
+      "md5": "e342c0c235314a68f96f06fb6331ed93"
+    }, 
+    "res/anim/peng/guangxiao.png": {
+      "md5": "5cb790454f51cae8ad2d2684bf42ba17"
+    }, 
+    "res/anim/peng/mo.png": {
+      "md5": "e2b95bf431ec76415a8f71f5124392c4"
+    }, 
+    "res/anim/peng/moquan.png": {
+      "md5": "76f7cdefcce73ab6711692fe4b45e869"
+    }, 
+    "res/anim/peng/peipaiguang.png": {
+      "md5": "adf8abd929e7d34364494af245498e68"
+    }, 
+    "res/anim/peng/peng.csb": {
+      "md5": "8da5e263183c2f612f55321d243a2bfb"
+    }, 
+    "res/anim/peng/peng.png": {
+      "md5": "84746a780f8d7f09e4836ff4ff1ab1ae"
+    }, 
+    "res/anim/peng/peng1.png": {
+      "md5": "30e5bd6e919f06023da2ac175476fa99"
+    }, 
+    "res/anim/peng/peng_2.png": {
+      "md5": "bf0db1cee94000c127be9edd91c3fd75"
+    }, 
+    "res/anim/zimo/zimo.csb": {
+      "md5": "3282f8a9d68dcc5d9b43d607e2e79178"
+    }, 
+    "res/anim/zimo/zimo_1.png": {
+      "md5": "f28612a613762b74cf7fde8fc87728be"
+    }, 
+    "res/anim/zimo/zimo_2.png": {
+      "md5": "d7c14a2c56ada0bbe0b19de0f8fbb5a2"
+    }, 
+    "res/anim/zuan/zuan.csb": {
+      "md5": "eb6ad6e34e1086ef9a367a96d91e72de"
+    }, 
+    "res/anim/zuan/zuan_1.png": {
+      "md5": "4b20b70925e87587ee487ba9129b277f"
+    }, 
+    "res/anim/zuan/zuan_2.png": {
+      "md5": "be18166ca632404d0c9ab4ece52ec439"
+    }, 
+    "res/anim/zuan/zuan_3.png": {
+      "md5": "3ca25339de88d71fbe6596d83a463c8d"
+    }, 
+    "res/anim/zuan/zuan_4.png": {
+      "md5": "99b35998f55b50a60fb8665e05497827"
+    }, 
+    "res/anim/zuobiao/zuanshi.png": {
+      "md5": "0fd0e928029e4028e9b5dfa621784bef"
+    }, 
+    "res/anim/zuobiao/zuobiao.csb": {
+      "md5": "70f4179f5815f45b8ec07b582392863b"
+    }, 
+    "res/audio/audio_card_click.mp3": {
+      "md5": "fd4e0f3815c859a8910add551683d31b"
+    }, 
+    "res/audio/audio_card_click.ogg": {
+      "md5": "ca6fe39a0c63d2cb811f8ecd6a009b9e"
+    }, 
+    "res/audio/audio_card_out.mp3": {
+      "md5": "baa1ae9f01b0893b37115cd668f8baf7"
+    }, 
+    "res/audio/audio_card_out.ogg": {
+      "md5": "c6f7acfefbf2964b909437d4fa471254"
+    }, 
+    "res/audio/audio_get_card.mp3": {
+      "md5": "a01631610211412046315ca85a7d0b8c"
+    }, 
+    "res/audio/audio_get_card.ogg": {
+      "md5": "eca6cb57a871ae18a3120d7d83dd681a"
+    }, 
+    "res/audio/bgm.mp3": {
+      "md5": "640bc27809704a2e2963c8ff3fe3c027"
+    }, 
+    "res/audio/click.mp3": {
+      "md5": "fcd981b9dbd974ddfab74ee5db102e5a"
+    }, 
+    "res/audio/click.ogg": {
+      "md5": "2e7b468108a001d42b64c0d1a8496c25"
+    }, 
+    "res/audio/fix_msg_1.mp3": {
+      "md5": "803385324e3c932cea496e8655b51f76"
+    }, 
+    "res/audio/fix_msg_1.ogg": {
+      "md5": "64d25630e1512be337efe27562dfb6a3"
+    }, 
+    "res/audio/fix_msg_2.mp3": {
+      "md5": "a4f76647ef7e06bfae6c995211f82f70"
+    }, 
+    "res/audio/fix_msg_2.ogg": {
+      "md5": "ce7a2b1b5baa7bb7aa6702e430acc382"
+    }, 
+    "res/audio/fix_msg_3.mp3": {
+      "md5": "ff579beba5b27688695b9d7578dcf514"
+    }, 
+    "res/audio/fix_msg_3.ogg": {
+      "md5": "2401d997be11f6cf6505d252f35ca8a6"
+    }, 
+    "res/audio/fix_msg_4.mp3": {
+      "md5": "fd079b73bde4091a4c49f17e493ee54b"
+    }, 
+    "res/audio/fix_msg_4.ogg": {
+      "md5": "22f220fa1bec98e67abd0143e9d58db1"
+    }, 
+    "res/audio/fix_msg_5.mp3": {
+      "md5": "f8cd9140391296338ffd718c2f51b3af"
+    }, 
+    "res/audio/fix_msg_5.ogg": {
+      "md5": "aa7d18a48e7ec080a9b7e906734fe6cf"
+    }, 
+    "res/audio/fix_msg_6.mp3": {
+      "md5": "cd60de5fc3bb7ef7ee36fcd993c2917c"
+    }, 
+    "res/audio/fix_msg_6.ogg": {
+      "md5": "0cf19ab8ac02d13a9890978fd7af330c"
+    }, 
+    "res/audio/fix_msg_7.mp3": {
+      "md5": "c7da386fb2732a788e8e5324435384a0"
+    }, 
+    "res/audio/fix_msg_7.ogg": {
+      "md5": "c5ce943b3679186fd34f3ec9a3dfbc6a"
+    }, 
+    "res/audio/fix_msg_8.mp3": {
+      "md5": "c7b2f6f9ca5200069daefc5d6f52fe3a"
+    }, 
+    "res/audio/fix_msg_8.ogg": {
+      "md5": "5497957ab5cf622d45cd929d06f72fae"
+    }, 
+    "res/audio/fix_msg_9.mp3": {
+      "md5": "f4d2632f30490a82c2484475f5319b4e"
+    }, 
+    "res/audio/fix_msg_9.ogg": {
+      "md5": "6dc78d1a3df7192bae8f7bf7cadf0826"
+    }, 
+    "res/audio/m_0x01.mp3": {
+      "md5": "445a4a5bfc3b9442ed669fe22b639e3d"
+    }, 
+    "res/audio/m_0x01.ogg": {
+      "md5": "8240c5d1258c5b77a6a40d4418c5d239"
+    }, 
+    "res/audio/m_0x02.mp3": {
+      "md5": "49e4a7dfd5fc6a018a9026ee9fa52047"
+    }, 
+    "res/audio/m_0x02.ogg": {
+      "md5": "8b8879b115d08da3b96eb4706bf5af7d"
+    }, 
+    "res/audio/m_0x03.mp3": {
+      "md5": "381c7ae07715877bfc7f77cefcd6c757"
+    }, 
+    "res/audio/m_0x03.ogg": {
+      "md5": "4493b64b60619a8d74292d63fe28b408"
+    }, 
+    "res/audio/m_0x04.mp3": {
+      "md5": "d9c05c72328ceef01f03f7ead6d8f37c"
+    }, 
+    "res/audio/m_0x04.ogg": {
+      "md5": "df75aa30c8d3d43df599aa7e0f247d78"
+    }, 
+    "res/audio/m_0x05.mp3": {
+      "md5": "649403821918e38438f2b8d6c6541a52"
+    }, 
+    "res/audio/m_0x05.ogg": {
+      "md5": "eed07631cabcaf33b7f6d6b505e97615"
+    }, 
+    "res/audio/m_0x06.mp3": {
+      "md5": "942fb670539418f4698d41d4d133c228"
+    }, 
+    "res/audio/m_0x06.ogg": {
+      "md5": "af4a8e9fbd4aa6dba15d71c97b0456f7"
+    }, 
+    "res/audio/m_0x07.mp3": {
+      "md5": "4eec8907c7de2d9fd151c5a64f332577"
+    }, 
+    "res/audio/m_0x07.ogg": {
+      "md5": "0a6b2fed8c513d46ddaf18434a13764c"
+    }, 
+    "res/audio/m_0x08.mp3": {
+      "md5": "80bedca9caed2a3ba97f68cfc0870812"
+    }, 
+    "res/audio/m_0x08.ogg": {
+      "md5": "8d23ef9bc1660f02b4a1b21dc7659bf3"
+    }, 
+    "res/audio/m_0x09.mp3": {
+      "md5": "22bad405df7eba34894abeefacc9b809"
+    }, 
+    "res/audio/m_0x09.ogg": {
+      "md5": "c3949f4b6fc380eaa9f0133c58dcad0a"
+    }, 
+    "res/audio/m_0x11.mp3": {
+      "md5": "237ec3f73d9964fcb50ae74ab8e3baeb"
+    }, 
+    "res/audio/m_0x11.ogg": {
+      "md5": "ddbb940cbdf1b13b5f240acc0570a3ed"
+    }, 
+    "res/audio/m_0x12.mp3": {
+      "md5": "2f064d8fc19ac6f5d225cec37ffa1765"
+    }, 
+    "res/audio/m_0x12.ogg": {
+      "md5": "b94c6b086facdaf0ce8a55d2ebec3ec2"
+    }, 
+    "res/audio/m_0x13.mp3": {
+      "md5": "bf21a66a373b87e4e52a09153e80b1c7"
+    }, 
+    "res/audio/m_0x13.ogg": {
+      "md5": "b6d6fbd38a32d27041037fb9b68cf665"
+    }, 
+    "res/audio/m_0x14.mp3": {
+      "md5": "2d19199538c9703623870b80385b178a"
+    }, 
+    "res/audio/m_0x14.ogg": {
+      "md5": "78cef229269664991dfe3d95c205b37a"
+    }, 
+    "res/audio/m_0x15.mp3": {
+      "md5": "01764b8055dd139d8a4b980fe1f3b431"
+    }, 
+    "res/audio/m_0x15.ogg": {
+      "md5": "abb96fa7a44b3f78f65649837eb8c133"
+    }, 
+    "res/audio/m_0x16.mp3": {
+      "md5": "cc14fa13167951f3546b59f5002a8c9a"
+    }, 
+    "res/audio/m_0x16.ogg": {
+      "md5": "c18674e7aae0374e2821329842e8b57f"
+    }, 
+    "res/audio/m_0x17.mp3": {
+      "md5": "e22de7e4f5bffa507fd63ba34a749840"
+    }, 
+    "res/audio/m_0x17.ogg": {
+      "md5": "0849d34dd4712ebebcda664de77d6bed"
+    }, 
+    "res/audio/m_0x18.mp3": {
+      "md5": "563c433576fea17941165c6bec73c4c1"
+    }, 
+    "res/audio/m_0x18.ogg": {
+      "md5": "7f7bafad4b041c0b9993d003148db129"
+    }, 
+    "res/audio/m_0x19.mp3": {
+      "md5": "aea4a3dfb1a959324d1966ade4190fbf"
+    }, 
+    "res/audio/m_0x19.ogg": {
+      "md5": "9912e935217878a95a3e99e750e0b924"
+    }, 
+    "res/audio/m_0x21.mp3": {
+      "md5": "c32f2624864eae3d0455b128fd62f3ce"
+    }, 
+    "res/audio/m_0x21.ogg": {
+      "md5": "9caf6b63b43119d9eb5b35137a5833b6"
+    }, 
+    "res/audio/m_0x22.mp3": {
+      "md5": "239b9087da57e927e896d579a8dcfe05"
+    }, 
+    "res/audio/m_0x22.ogg": {
+      "md5": "f0363f65a685b8f54b97abfc7cd8e785"
+    }, 
+    "res/audio/m_0x23.mp3": {
+      "md5": "86b5e5fbbca9bdd9d015e564dc90e625"
+    }, 
+    "res/audio/m_0x23.ogg": {
+      "md5": "446df85b3d226834496e9645ee93afef"
+    }, 
+    "res/audio/m_0x24.mp3": {
+      "md5": "498a01a2b35ffed5ea0ba69a504ce4e1"
+    }, 
+    "res/audio/m_0x24.ogg": {
+      "md5": "04e88f5f21469fb9f965e382c5fa7929"
+    }, 
+    "res/audio/m_0x25.mp3": {
+      "md5": "6161249d9cd469c409c1590671f902bc"
+    }, 
+    "res/audio/m_0x25.ogg": {
+      "md5": "f911d79ab030915ac8d9f3828e925c7e"
+    }, 
+    "res/audio/m_0x26.mp3": {
+      "md5": "228fcc126c4391b8600b516d1f2ddd25"
+    }, 
+    "res/audio/m_0x26.ogg": {
+      "md5": "806ca5c1ad0311ec754433ae2198c6db"
+    }, 
+    "res/audio/m_0x27.mp3": {
+      "md5": "7a17ff862b5e8cea7bc9eb4a9b622290"
+    }, 
+    "res/audio/m_0x27.ogg": {
+      "md5": "83800379a55cb5251ee49516402b4706"
+    }, 
+    "res/audio/m_0x28.mp3": {
+      "md5": "86fb62ab4481468186218d7771200535"
+    }, 
+    "res/audio/m_0x28.ogg": {
+      "md5": "941f87671407fd1294f0fdb54a491a92"
+    }, 
+    "res/audio/m_0x29.mp3": {
+      "md5": "525de35cb43703378e452941e81cf290"
+    }, 
+    "res/audio/m_0x29.ogg": {
+      "md5": "e6bc661942e2b06ae88b3d17d1ba4c1d"
+    }, 
+    "res/audio/m_0x31.mp3": {
+      "md5": "53506ea3b4600533e45925b26931da21"
+    }, 
+    "res/audio/m_0x31.ogg": {
+      "md5": "acac7200198863faab5c2fa0e071d53b"
+    }, 
+    "res/audio/m_0x32.mp3": {
+      "md5": "685a87632b4803654be34820dde5dc14"
+    }, 
+    "res/audio/m_0x32.ogg": {
+      "md5": "583afd1da823f43da6c4b7772594109d"
+    }, 
+    "res/audio/m_0x33.mp3": {
+      "md5": "f64a13376d5e353be78da1629ba2db74"
+    }, 
+    "res/audio/m_0x33.ogg": {
+      "md5": "bf0ade525feef76f80283c03e16e0268"
+    }, 
+    "res/audio/m_0x34.mp3": {
+      "md5": "c4e4f41622827ad1e2195e994494b0f8"
+    }, 
+    "res/audio/m_0x34.ogg": {
+      "md5": "846b266fef2515e0c73b63c19b80728f"
+    }, 
+    "res/audio/m_0x41.mp3": {
+      "md5": "4f8847703d259d22ea39c8b842fcd67c"
+    }, 
+    "res/audio/m_0x41.ogg": {
+      "md5": "070de5ea6ac277e9dfb0c420e3152924"
+    }, 
+    "res/audio/m_0x42.mp3": {
+      "md5": "3bc04e384299d5b53db582d48bbfb122"
+    }, 
+    "res/audio/m_0x42.ogg": {
+      "md5": "0ea5d82949afca9dd2f7e66d943525bb"
+    }, 
+    "res/audio/m_0x43.mp3": {
+      "md5": "8a895832656ec882f35e448c0569626e"
+    }, 
+    "res/audio/m_0x43.ogg": {
+      "md5": "1575a842eecf66a3eddb5967904bc168"
+    }, 
+    "res/audio/m_bian.mp3": {
+      "md5": "6672e0ada48acb76834446311345d34e"
+    }, 
+    "res/audio/m_bian.ogg": {
+      "md5": "75201dc985916f40899f0afe47cdf8a1"
+    }, 
+    "res/audio/m_chi_hu.mp3": {
+      "md5": "1e8fcbe8ea8d917a222f9c2c48643941"
+    }, 
+    "res/audio/m_chi_hu.ogg": {
+      "md5": "d91127475357501e761ec652cd28f6b3"
+    }, 
+    "res/audio/m_gang.mp3": {
+      "md5": "b984874e5673061f2a7a00250917cd19"
+    }, 
+    "res/audio/m_gang.ogg": {
+      "md5": "be48d400a88adf811763e5a88ff57a69"
+    }, 
+    "res/audio/m_peng.mp3": {
+      "md5": "fe5a7182e77327e1088fd9b974d50acf"
+    }, 
+    "res/audio/m_peng.ogg": {
+      "md5": "63be092dc695b1c1f3fc91c819204557"
+    }, 
+    "res/audio/m_zuan.mp3": {
+      "md5": "f10388d824f8913382f1713380db00d5"
+    }, 
+    "res/audio/m_zuan.ogg": {
+      "md5": "e46bf124852ab1d6538479fd33d2205c"
+    }, 
+    "res/audio/shazi.mp3": {
+      "md5": "0c7441348182eabac60ca425c7c7d3d7"
+    }, 
+    "res/audio/shazi.ogg": {
+      "md5": "830a6ea34685186aa2ac6a9bfe8ebe13"
+    }, 
+    "res/audio/w_0x01.mp3": {
+      "md5": "bddc75636521976528ca430c5bda5b6c"
+    }, 
+    "res/audio/w_0x01.ogg": {
+      "md5": "42d6ddf6bbce68a0ee0daa26be9061cf"
+    }, 
+    "res/audio/w_0x02.mp3": {
+      "md5": "81e481e0440f1f7ed7e4c1a03547d37a"
+    }, 
+    "res/audio/w_0x02.ogg": {
+      "md5": "e0d9a8959f282200f5cf87bc071ce903"
+    }, 
+    "res/audio/w_0x03.mp3": {
+      "md5": "b190223f0e9bd942541345ff7bc58965"
+    }, 
+    "res/audio/w_0x03.ogg": {
+      "md5": "898f3b634b3c3c0162e8a769392395c7"
+    }, 
+    "res/audio/w_0x04.mp3": {
+      "md5": "e7c9d0310769c4427172913c0a01bfe0"
+    }, 
+    "res/audio/w_0x04.ogg": {
+      "md5": "d789c968e1abed5349cf64c5eba89c72"
+    }, 
+    "res/audio/w_0x05.mp3": {
+      "md5": "5c5c9eb0f83a2d24d99e7331280f4961"
+    }, 
+    "res/audio/w_0x05.ogg": {
+      "md5": "fc11efc5d4462365f22278ac423b4113"
+    }, 
+    "res/audio/w_0x06.mp3": {
+      "md5": "e7c8e43df5d075a051cf25716aeaa104"
+    }, 
+    "res/audio/w_0x06.ogg": {
+      "md5": "20a2e1d450f874f70f4f7f8b12b60434"
+    }, 
+    "res/audio/w_0x07.mp3": {
+      "md5": "6dc1a4af720c9480b0a6643adb451fd4"
+    }, 
+    "res/audio/w_0x07.ogg": {
+      "md5": "5ef10d628d0d44839e7f1c9de5c03acf"
+    }, 
+    "res/audio/w_0x08.mp3": {
+      "md5": "a61861b1860a2e8a00cb47496a192eb3"
+    }, 
+    "res/audio/w_0x08.ogg": {
+      "md5": "cfbe8fa48a2c748d244e945ce6f2f4a5"
+    }, 
+    "res/audio/w_0x09.mp3": {
+      "md5": "1d40ddc83e4abfe7806f2ab98e2c84ee"
+    }, 
+    "res/audio/w_0x09.ogg": {
+      "md5": "20d139d48b55f6b9258832e4f5bb2f2d"
+    }, 
+    "res/audio/w_0x11.mp3": {
+      "md5": "02bbbbf8ffc955994521f3bed8f3d7c3"
+    }, 
+    "res/audio/w_0x11.ogg": {
+      "md5": "e2f93786a241a27277de137c19f1387a"
+    }, 
+    "res/audio/w_0x12.mp3": {
+      "md5": "67c6cb1a210267f42f3c685489296980"
+    }, 
+    "res/audio/w_0x12.ogg": {
+      "md5": "00483b575a73d1378c76385c73b0e77a"
+    }, 
+    "res/audio/w_0x13.mp3": {
+      "md5": "8e959da8889d44148e557c5a0e72c89c"
+    }, 
+    "res/audio/w_0x13.ogg": {
+      "md5": "62d2ba8be44c531c432f56aad692c8a3"
+    }, 
+    "res/audio/w_0x14.mp3": {
+      "md5": "eda77cbe01c5f54973581f45a665051f"
+    }, 
+    "res/audio/w_0x14.ogg": {
+      "md5": "b9c433ca3719265bb3edf55f04a15db0"
+    }, 
+    "res/audio/w_0x15.mp3": {
+      "md5": "d628f031c2b701bf3c161356a4f04ec7"
+    }, 
+    "res/audio/w_0x15.ogg": {
+      "md5": "4f05f4f813784e71bb241199860c0c48"
+    }, 
+    "res/audio/w_0x16.mp3": {
+      "md5": "95e786af44e2a69b74e4449f1a9a6515"
+    }, 
+    "res/audio/w_0x16.ogg": {
+      "md5": "6df2efea374bf99ee6153d6d5f09a61c"
+    }, 
+    "res/audio/w_0x17.mp3": {
+      "md5": "22b14dc312f3a23ad57efb16d797eca7"
+    }, 
+    "res/audio/w_0x17.ogg": {
+      "md5": "ba113a13bf5d2f8aefe7ea4d2c4bda73"
+    }, 
+    "res/audio/w_0x18.mp3": {
+      "md5": "db7e93c5f35d75b2705c64894e0a9c7f"
+    }, 
+    "res/audio/w_0x18.ogg": {
+      "md5": "e016fdfe2490015e0dfbcc938a557f8e"
+    }, 
+    "res/audio/w_0x19.mp3": {
+      "md5": "31a5830c0cf59db1377a5ea8e59bb488"
+    }, 
+    "res/audio/w_0x19.ogg": {
+      "md5": "b68c95b89ad0106df6279440b5ad4a8e"
+    }, 
+    "res/audio/w_0x21.mp3": {
+      "md5": "8acd754aaa3d1d2f1bd4b60b66697ada"
+    }, 
+    "res/audio/w_0x21.ogg": {
+      "md5": "37e267b78601238908ce9b88a719c88f"
+    }, 
+    "res/audio/w_0x22.mp3": {
+      "md5": "494452ac0d80748bb622402e7ff206ac"
+    }, 
+    "res/audio/w_0x22.ogg": {
+      "md5": "5e9e1a1739821da08503de8199d44c4d"
+    }, 
+    "res/audio/w_0x23.mp3": {
+      "md5": "fb6ef420e1400cfef807915edf2573b6"
+    }, 
+    "res/audio/w_0x23.ogg": {
+      "md5": "e6c2aae2a9bdf0a9e8e24add95aa6386"
+    }, 
+    "res/audio/w_0x24.mp3": {
+      "md5": "7abbf4cb83316796b724ebe5a34f97a7"
+    }, 
+    "res/audio/w_0x24.ogg": {
+      "md5": "6bd65be24e240a9575707b1ad252b6b6"
+    }, 
+    "res/audio/w_0x25.mp3": {
+      "md5": "d93c83bd8efa958e38f4468214d3bb88"
+    }, 
+    "res/audio/w_0x25.ogg": {
+      "md5": "eecee36c73351763eaa3108a0ad35e92"
+    }, 
+    "res/audio/w_0x26.mp3": {
+      "md5": "cb898bad62c1b2e527bad415bcf288b6"
+    }, 
+    "res/audio/w_0x26.ogg": {
+      "md5": "346e25239a708fde016160d978b04779"
+    }, 
+    "res/audio/w_0x27.mp3": {
+      "md5": "6a1aa009cdbb62880fa5a8fbf9b4c318"
+    }, 
+    "res/audio/w_0x27.ogg": {
+      "md5": "eeaf378fe53b4097c6261645d6296882"
+    }, 
+    "res/audio/w_0x28.mp3": {
+      "md5": "438e1ef6a138b06c2a63826fe8fe1f36"
+    }, 
+    "res/audio/w_0x28.ogg": {
+      "md5": "6ab3f0ab2691bad1e74e919989158085"
+    }, 
+    "res/audio/w_0x29.mp3": {
+      "md5": "a8135491969d56bf407aa2939c8b9367"
+    }, 
+    "res/audio/w_0x29.ogg": {
+      "md5": "f40695429b8282394aae92463b51d927"
+    }, 
+    "res/audio/w_0x31.mp3": {
+      "md5": "be65498682ea1d2ba9bc3bfc00c64ec9"
+    }, 
+    "res/audio/w_0x31.ogg": {
+      "md5": "13b7417b12ded225f16685820f7ee5ba"
+    }, 
+    "res/audio/w_0x32.mp3": {
+      "md5": "b7fc6e9cd9ed8c567e07c8b2ed6a2d8c"
+    }, 
+    "res/audio/w_0x32.ogg": {
+      "md5": "43c16fcd2a377ef439b7187b482d3566"
+    }, 
+    "res/audio/w_0x33.mp3": {
+      "md5": "aee5c6ff521d491ce13c1ab6e1229331"
+    }, 
+    "res/audio/w_0x33.ogg": {
+      "md5": "672cca5c296632fc88b57e4b6e786adb"
+    }, 
+    "res/audio/w_0x34.mp3": {
+      "md5": "d8e24f9ca08da7eb24eafabaa787e7ac"
+    }, 
+    "res/audio/w_0x34.ogg": {
+      "md5": "d3d9625f053d15ec9c89241f9c29a43c"
+    }, 
+    "res/audio/w_0x41.mp3": {
+      "md5": "c9ce834e99b9aa8eebaa959a0cc669e3"
+    }, 
+    "res/audio/w_0x41.ogg": {
+      "md5": "1a618e5837355e1dabe706c4722fe66b"
+    }, 
+    "res/audio/w_0x42.mp3": {
+      "md5": "33621384e52bcc96831ee0ebb31dfc55"
+    }, 
+    "res/audio/w_0x42.ogg": {
+      "md5": "153b19caeff813d8ed2460dfeb3dc007"
+    }, 
+    "res/audio/w_0x43.mp3": {
+      "md5": "5ec38488fa0b39227c0043922dcd22aa"
+    }, 
+    "res/audio/w_0x43.ogg": {
+      "md5": "402f07dd424709a9c942001c882aca72"
+    }, 
+    "res/audio/w_bian.mp3": {
+      "md5": "56565d2e29c79ffe8392b8b628d40a90"
+    }, 
+    "res/audio/w_bian.ogg": {
+      "md5": "0c9f0cbc0187e873d70309344e9a4a7d"
+    }, 
+    "res/audio/w_chi_hu.mp3": {
+      "md5": "ffe21498de15149ef1941aacd05a9f20"
+    }, 
+    "res/audio/w_chi_hu.ogg": {
+      "md5": "fe84435bacc8e0e7ffa8227745829672"
+    }, 
+    "res/audio/w_gang.mp3": {
+      "md5": "025569a24887b8983a2fc248bade29f3"
+    }, 
+    "res/audio/w_gang.ogg": {
+      "md5": "b007bb8c14fd5481d3ee8905a552afa2"
+    }, 
+    "res/audio/w_peng.mp3": {
+      "md5": "83cab93de5d5f320e7e86b53e1b672d8"
+    }, 
+    "res/audio/w_peng.ogg": {
+      "md5": "b91241b512527cdcf65ccc4f764efd4e"
+    }, 
+    "res/audio/w_zuan.mp3": {
+      "md5": "8415b33dee654dadafbcab108292f227"
+    }, 
+    "res/audio/w_zuan.ogg": {
+      "md5": "303d8e4a6d441da740322d6f74c0cf42"
+    }, 
+    "res/bg/activity_bg.png": {
+      "md5": "6490110649f20d34d46e38f5919f319e"
+    }, 
+    "res/bg/bg_biaoqing.png": {
+      "md5": "d3fb545fc5d71e00c1f88c74f84b271d"
+    }, 
+    "res/bg/bg_paixin.png": {
+      "md5": "c8cf4a5be7b80f8103538cae11936122"
+    }, 
+    "res/bg/buy_gem_bg.png": {
+      "md5": "b936ccccccc5ca184ae0401fc2d3daec"
+    }, 
+    "res/bg/create_room_bg.png": {
+      "md5": "1de80d36768bc10b1bd63b2ecae74048"
+    }, 
+    "res/bg/duanxian.png": {
+      "md5": "69112cdfa4880c28b38cc2ed26ad7201"
+    }, 
+    "res/bg/gem_bg_down.png": {
+      "md5": "a8221fb07e6bedcac41168570b91f913"
+    }, 
+    "res/bg/gem_bg_up.png": {
+      "md5": "d8e023545387ff60072e03dbbcd8befe"
+    }, 
+    "res/bg/gonggao_bg.png": {
+      "md5": "08d2289136e4e9ee1190d1b7e304e03e"
+    }, 
+    "res/bg/hell_bg1.png": {
+      "md5": "f9662c2734fa05007921e030af02b706"
+    }, 
+    "res/bg/hell_bg2.png": {
+      "md5": "20a11fe6a3670a433dd536cef0e3ee72"
+    }, 
+    "res/bg/hell_bg_activity1.png": {
+      "md5": "82b8d048fcf6e966598a0468ecf51822"
+    }, 
+    "res/bg/hell_bg_activity2.png": {
+      "md5": "74fb28b0cd4afc191c2d2d117bf1a76b"
+    }, 
+    "res/bg/hell_diamond_bg.png": {
+      "md5": "19dc1fdee25dc3c910f49d7c36c5faf9"
+    }, 
+    "res/bg/hell_head_bg1.png": {
+      "md5": "b00cad731a5a07d4ef0505dbf5ee0513"
+    }, 
+    "res/bg/hell_head_bg2.png": {
+      "md5": "7f9809ad68b57fb1ae58f485bfa02b0e"
+    }, 
+    "res/bg/hell_head_bg3.png": {
+      "md5": "bf9f0da739190d4963e77536f8c724a9"
+    }, 
+    "res/bg/invite_bg.png": {
+      "md5": "dc978d09278f1296da3a719ae088d600"
+    }, 
+    "res/bg/jiesanfangjian_bg.png": {
+      "md5": "9543380d27b97184d6beb6afaabcada7"
+    }, 
+    "res/bg/join_room_bg.png": {
+      "md5": "242895f2e2c61f646e25d7e943866d41"
+    }, 
+    "res/bg/lishizhanji_bg1.png": {
+      "md5": "452bef39459f6d889fc24d6ba20637c6"
+    }, 
+    "res/bg/lishizhanji_bg2.png": {
+      "md5": "173b0169c5b7dff7dced887f75e12eb6"
+    }, 
+    "res/bg/logon_bg1.png": {
+      "md5": "27def6ddf0ffb144395636bb1736070b"
+    }, 
+    "res/bg/logon_bg2.png": {
+      "md5": "d5e3e8f5f24631f675cd8accc447eeda"
+    }, 
+    "res/bg/qiangtishi_bg.png": {
+      "md5": "0e0830694bdda32ee9cb594dffb60535"
+    }, 
+    "res/bg/qidongyemian.png": {
+      "md5": "19f85bd5cd73dd79a492d9516cb76265"
+    }, 
+    "res/bg/record_bg.png": {
+      "md5": "03c619de473a635acdf2056861d26391"
+    }, 
+    "res/bg/rule_bg.png": {
+      "md5": "a9a9b9f061698274da34971964fb33cd"
+    }, 
+    "res/bg/rule_bg1.png": {
+      "md5": "175bb3a145876c560d49d417ed9a0757"
+    }, 
+    "res/bg/ruotishi.png": {
+      "md5": "7a879ea18a63d548db61c86997fbd73a"
+    }, 
+    "res/bg/set_bg.png": {
+      "md5": "a212e0cda7dd4fb21b6f889b30ce958a"
+    }, 
+    "res/bg/set_bg2.png": {
+      "md5": "18a9107eb96e2529778aa368385a7825"
+    }, 
+    "res/bg/settlement.png": {
+      "md5": "639e2abae543fc7660d92be6c500eba5"
+    }, 
+    "res/bg/settlement_bg1.png": {
+      "md5": "31c415b2571f3f426ee83748110ddb8d"
+    }, 
+    "res/bg/settlement_bg2.png": {
+      "md5": "61efa48229b99c28323c592915d1b481"
+    }, 
+    "res/bg/share_bg.png": {
+      "md5": "5f4f22c8358c89047e13a8fc00403825"
+    }, 
+    "res/bg/touxiang_bg1.png": {
+      "md5": "830609c64a65f4cdb961c4fce436ca40"
+    }, 
+    "res/bg/yijidaili_bg1.png": {
+      "md5": "c22804eba2909f383c1583e0be50b280"
+    }, 
+    "res/bg/yijidaili_bg2.png": {
+      "md5": "25d9ce539e6bba85c1961d5548892b46"
+    }, 
+    "res/bg/yijidaili_bg3.png": {
+      "md5": "fa4dbf11c09d43b2cca9069803b883ee"
+    }, 
+    "res/bg/zhuobu.png": {
+      "md5": "e1003fc911b23002c6e333e072ba3d06"
+    }, 
+    "res/btn/alipay.png": {
+      "md5": "9fdfb711c412be845887a2222503814e"
+    }, 
+    "res/btn/alipay_xuanzhong.png": {
+      "md5": "78a2565c7f3f8e2194c95e116a161f87"
+    }, 
+    "res/btn/bangzu.png": {
+      "md5": "d45adc4b1e93eb5277cfcb1781c55fd9"
+    }, 
+    "res/btn/bian_1.png": {
+      "md5": "14cf71cb059d60d833dc0cee5373d5b8"
+    }, 
+    "res/btn/bian_2.png": {
+      "md5": "2eeaba45223da30e145469237470cd4b"
+    }, 
+    "res/btn/biaoqing_check.png": {
+      "md5": "62e96a37e0f168cebf7669b426884bee"
+    }, 
+    "res/btn/biaoqing_uncheck.png": {
+      "md5": "48be253a1ffda72a1df2f99003adf848"
+    }, 
+    "res/btn/bt_0_down.png": {
+      "md5": "990b9c321e4c3f92baf3ba78a31f324a"
+    }, 
+    "res/btn/bt_0_down_1.png": {
+      "md5": "20947e1f96a87d5ef7df016943022d88"
+    }, 
+    "res/btn/bt_0_up.png": {
+      "md5": "e6d20ef123292cc89ae3c4d53e9a83e6"
+    }, 
+    "res/btn/bt_0_up_1.png": {
+      "md5": "f24a6c8ac2755c55667e4db4d50099c6"
+    }, 
+    "res/btn/bt_1_down.png": {
+      "md5": "6c4d16975e950126769c32a1ee8b9512"
+    }, 
+    "res/btn/bt_1_down_1.png": {
+      "md5": "973ae31afa7062457ed9a2d45788a235"
+    }, 
+    "res/btn/bt_1_up.png": {
+      "md5": "a21ce2fe19ec1dfabe214ee4ea76db0e"
+    }, 
+    "res/btn/bt_1_up_1.png": {
+      "md5": "3bc07c9da5464965909bb0378a30ab78"
+    }, 
+    "res/btn/bt_2_down.png": {
+      "md5": "34b09140dda48f5a6a5cd3084c12d200"
+    }, 
+    "res/btn/bt_2_down_1.png": {
+      "md5": "ca83c114b1dea3a74679a5fccfa8d49e"
+    }, 
+    "res/btn/bt_2_up.png": {
+      "md5": "ef7b403a459c029361632afdc1c3a1da"
+    }, 
+    "res/btn/bt_2_up_1.png": {
+      "md5": "f752236274954800e217401320bd7442"
+    }, 
+    "res/btn/bt_3_down.png": {
+      "md5": "c2cfe6069599f486d7c128496fcf547b"
+    }, 
+    "res/btn/bt_3_down_1.png": {
+      "md5": "e5478e61b65d4549be10a8e4ab930851"
+    }, 
+    "res/btn/bt_3_up.png": {
+      "md5": "8d6d0ba4bfd6e6527ab9b06ff34cb3a4"
+    }, 
+    "res/btn/bt_3_up_1.png": {
+      "md5": "08f64c6f0f35090944402b96cfb43fb2"
+    }, 
+    "res/btn/bt_4_down.png": {
+      "md5": "c405da2a7e4dd090f704fb6bac4b6f6c"
+    }, 
+    "res/btn/bt_4_down_1.png": {
+      "md5": "fb069f5d81b9b4d65370b4142b5e2961"
+    }, 
+    "res/btn/bt_4_up.png": {
+      "md5": "9a376aede581fff10d237c2ea319d126"
+    }, 
+    "res/btn/bt_4_up_1.png": {
+      "md5": "cd686842969bec16b05df247f53870d5"
+    }, 
+    "res/btn/bt_5_down.png": {
+      "md5": "6b0251a03791fd593bc14320afe0fecf"
+    }, 
+    "res/btn/bt_5_down_1.png": {
+      "md5": "58cfe88ba264d883345b98f77cc9edd1"
+    }, 
+    "res/btn/bt_5_up.png": {
+      "md5": "485331d1dd0ee75ab019a46caf006d50"
+    }, 
+    "res/btn/bt_5_up_1.png": {
+      "md5": "72ae573326a0aaff75b7e5a70c88aa4b"
+    }, 
+    "res/btn/bt_6_down.png": {
+      "md5": "57bb83ed1a0d654e8b0dc7763b23bc5f"
+    }, 
+    "res/btn/bt_6_down_1.png": {
+      "md5": "52990a05021d4f662f4ba749f42d898c"
+    }, 
+    "res/btn/bt_6_up.png": {
+      "md5": "d5ff77b9e99e392292761e24d1888e56"
+    }, 
+    "res/btn/bt_6_up_1.png": {
+      "md5": "f552e7edcee7cbb7153de099ce9f3a61"
+    }, 
+    "res/btn/bt_7_down.png": {
+      "md5": "8d94a9a83e194e02e6a9301a519943fa"
+    }, 
+    "res/btn/bt_7_down_1.png": {
+      "md5": "338f3ff9d1d7028fc6a71b099c62a36e"
+    }, 
+    "res/btn/bt_7_up.png": {
+      "md5": "662e193dc2d09a92c5f1bd50167cd454"
+    }, 
+    "res/btn/bt_7_up_1.png": {
+      "md5": "2d4d42b8832a8c218181ae506913ee47"
+    }, 
+    "res/btn/bt_8_down.png": {
+      "md5": "65a005e3263ce2e8a60c2e88d00c0d91"
+    }, 
+    "res/btn/bt_8_down_1.png": {
+      "md5": "b6a7315825b4f0527576d2427e89c9e7"
+    }, 
+    "res/btn/bt_8_up.png": {
+      "md5": "7393f5b1817414173e7800d928405dd4"
+    }, 
+    "res/btn/bt_8_up_1.png": {
+      "md5": "857267021eca406e0f7876000791aaab"
+    }, 
+    "res/btn/bt_9_down.png": {
+      "md5": "177368765151af068513c6446aeafd3e"
+    }, 
+    "res/btn/bt_9_down_1.png": {
+      "md5": "387746f90041f52c40cc6679725c002f"
+    }, 
+    "res/btn/bt_9_up.png": {
+      "md5": "004916f527f5c318bc4e86c5f3ab51b8"
+    }, 
+    "res/btn/bt_9_up_1.png": {
+      "md5": "a249db4e82a5ac7ed0166b1064a4ac75"
+    }, 
+    "res/btn/bt_biaoqing.png": {
+      "md5": "c1be9742ae35a7ffdbbf946b9d54f8cc"
+    }, 
+    "res/btn/bt_biaoqing_hui.png": {
+      "md5": "e5c3b324bb7e787caf0741978cbee00d"
+    }, 
+    "res/btn/bt_buy_gem.png": {
+      "md5": "5f5aeb671963e8d9cac5d25bae6dc353"
+    }, 
+    "res/btn/bt_caidan.png": {
+      "md5": "40e1164f395b45e04035654d048fcef2"
+    }, 
+    "res/btn/bt_chengji.png": {
+      "md5": "6c23c8a6cf1f9ae23eb5d19ed257bbe0"
+    }, 
+    "res/btn/bt_close_music.png": {
+      "md5": "2b702b4de1fed9f98a4d79e8b9e6067c"
+    }, 
+    "res/btn/bt_delete_down.png": {
+      "md5": "387cda9bb79a6597046f1c1a0a52d0ec"
+    }, 
+    "res/btn/bt_delete_down_1.png": {
+      "md5": "8950d28488ef92fadbb4e1d9877726a8"
+    }, 
+    "res/btn/bt_delete_up.png": {
+      "md5": "5c75894fe34cf63a85600911a43d768c"
+    }, 
+    "res/btn/bt_delete_up_1.png": {
+      "md5": "8036cd6c677a122ab650ced311692d51"
+    }, 
+    "res/btn/bt_difen.png": {
+      "md5": "0161271d10b2cd6a656b700c655d47a5"
+    }, 
+    "res/btn/bt_fenxiang.png": {
+      "md5": "02c29de28f2766340a552f79427f3e51"
+    }, 
+    "res/btn/bt_jixu.png": {
+      "md5": "3e6b9c004c28a058ca8497a96e4500bd"
+    }, 
+    "res/btn/bt_jixu_1.png": {
+      "md5": "8ab89bbf7a5718a6894ab735c6921161"
+    }, 
+    "res/btn/bt_jujue.png": {
+      "md5": "f8135d3bfad258ff9716d88e69a0adc4"
+    }, 
+    "res/btn/bt_open_music.png": {
+      "md5": "7516946f3648405377de7006901c6c85"
+    }, 
+    "res/btn/bt_queding.png": {
+      "md5": "c8567dbc42a7bf5471b4822633b6d2a6"
+    }, 
+    "res/btn/bt_quxiao.png": {
+      "md5": "7a210387ff17058e8e0879414d88673d"
+    }, 
+    "res/btn/bt_reset_down.png": {
+      "md5": "c3a78b3e1a4cef65e1866e0bd13b50e8"
+    }, 
+    "res/btn/bt_reset_down_1.png": {
+      "md5": "28225dcab5ad5884c7569dff42a8f58c"
+    }, 
+    "res/btn/bt_reset_up.png": {
+      "md5": "02a92d375b7bd18cf76cb784057db51d"
+    }, 
+    "res/btn/bt_reset_up_1.png": {
+      "md5": "ef71dad70d29c1303358c91f3da12d51"
+    }, 
+    "res/btn/bt_return.png": {
+      "md5": "e868296e1099778df168767085326c81"
+    }, 
+    "res/btn/bt_send_down.png": {
+      "md5": "3fe07af2d3435992141834996c0a58af"
+    }, 
+    "res/btn/bt_send_up.png": {
+      "md5": "64e4554701919a36dd214ff321915b4f"
+    }, 
+    "res/btn/bt_tichufangjian.png": {
+      "md5": "c8afb3b41eac8431cbfe533f3b66ea63"
+    }, 
+    "res/btn/bt_tongyi.png": {
+      "md5": "45bc2e92a2834723225ef46b6d62a1e0"
+    }, 
+    "res/btn/bt_weixinyaoqig.png": {
+      "md5": "dce0375e225b18c12216b5e6a22c517c"
+    }, 
+    "res/btn/bt_yuyin.png": {
+      "md5": "cf5f96ca6df7417f08e3691380ce7e88"
+    }, 
+    "res/btn/btn_touming.png": {
+      "md5": "e7ce9244370d3168902fee54d36e0e29"
+    }, 
+    "res/btn/chongshi.png": {
+      "md5": "cbff0b3bfa0ec888bfa8af13cbb75932"
+    }, 
+    "res/btn/chuangjianfangjian.png": {
+      "md5": "1d4c949be8c50fe1481a9ceb5be00642"
+    }, 
+    "res/btn/chuangjianfangjian_anxia.png": {
+      "md5": "1f0bc653ab4a4266ea3ae3c3e96cf0af"
+    }, 
+    "res/btn/copy_wechat.png": {
+      "md5": "c722cf162c9a4840921022ef2f0bed55"
+    }, 
+    "res/btn/fanhui.png": {
+      "md5": "97bbab915c2d9d768dcab0a848a25ffc"
+    }, 
+    "res/btn/fuzhiweixinghao.png": {
+      "md5": "6169c8bbfa54776782e85e46da3e07aa"
+    }, 
+    "res/btn/gang_1.png": {
+      "md5": "5cf07af72550a492d455f2d473a71e02"
+    }, 
+    "res/btn/gang_2.png": {
+      "md5": "8ed5e3c8779b2c65065db16902fd6471"
+    }, 
+    "res/btn/gonggao.png": {
+      "md5": "109bbaa87793d847fc407aa854d799db"
+    }, 
+    "res/btn/guanbianniu.png": {
+      "md5": "5769e2c2292356b6e2fec23bf2a79bb6"
+    }, 
+    "res/btn/guanbianniu2.png": {
+      "md5": "46871ccfedd13dead6bf7dbdada06b83"
+    }, 
+    "res/btn/guize.png": {
+      "md5": "a38cde7a65495964c9dca4b7bdd1f34c"
+    }, 
+    "res/btn/guo_1.png": {
+      "md5": "f2b2a8134c2328a0cfcd589190fa1a70"
+    }, 
+    "res/btn/guo_2.png": {
+      "md5": "04a4d75f6f786e0df101018c533a09d9"
+    }, 
+    "res/btn/hell_diamond_add.png": {
+      "md5": "5cb4429ad74d70bc52d827dabb12a811"
+    }, 
+    "res/btn/hell_shop.png": {
+      "md5": "afa7caff49cf28b5bdf872bb59a99fb9"
+    }, 
+    "res/btn/hu_1.png": {
+      "md5": "5d5cbff4b643413f112b7ca3f5ed3e50"
+    }, 
+    "res/btn/hu_2.png": {
+      "md5": "da0ed33f377a3cdc138e5400f4ab9a07"
+    }, 
+    "res/btn/jiangrufangjian.png": {
+      "md5": "d26061281ecf4f742cb57ce970e2369f"
+    }, 
+    "res/btn/jiangrufangjian_anxia.png": {
+      "md5": "924363acfbe3b3f530ba580bff537930"
+    }, 
+    "res/btn/jieshan.png": {
+      "md5": "4ce70cd01ba490fe2499bfd903b2c137"
+    }, 
+    "res/btn/liaotian_check.png": {
+      "md5": "188ffe73164877920893a04118711ac2"
+    }, 
+    "res/btn/liaotian_uncheck.png": {
+      "md5": "15c664608a353bae7610c9440267dea8"
+    }, 
+    "res/btn/lingzuanshi.png": {
+      "md5": "6d92fe8c01d2ce9149aa94bdb577dcf3"
+    }, 
+    "res/btn/logon_weixindenglu.png": {
+      "md5": "e01073691221ed686fab3ff159652996"
+    }, 
+    "res/btn/logon_weixindenglu_anxia.png": {
+      "md5": "188450602f324504c1f1db559227bbe9"
+    }, 
+    "res/btn/logon_youkedenglu_down.png": {
+      "md5": "c3d90e4936ea0d21978bd2cc017aa059"
+    }, 
+    "res/btn/logon_youkedenglu_up.png": {
+      "md5": "cb1f06fc2db96cb41f49333196a032d7"
+    }, 
+    "res/btn/paiju.png": {
+      "md5": "8f0bd1ae15bb9303faeaeee13d1dd999"
+    }, 
+    "res/btn/peng_1.png": {
+      "md5": "191556fba4a77b41efeee46a6ad8e4d1"
+    }, 
+    "res/btn/peng_2.png": {
+      "md5": "c97222ea9c1e67fcfb255e5677304ac1"
+    }, 
+    "res/btn/qiehuanzhanghao_down.png": {
+      "md5": "d338ba0ce3cb82b8c90306407b1f2500"
+    }, 
+    "res/btn/qiehuanzhanghao_up.png": {
+      "md5": "66b420c0110733a6666134c1bb93f3a3"
+    }, 
+    "res/btn/queding_down.png": {
+      "md5": "7b9f73accca59f5316a044491e50c41f"
+    }, 
+    "res/btn/queding_down_1.png": {
+      "md5": "b24f305cb8e2d06db7ff317888b7fb43"
+    }, 
+    "res/btn/queding_up.png": {
+      "md5": "256a9945150eb0f06074c6a66967da90"
+    }, 
+    "res/btn/queding_up_1.png": {
+      "md5": "bdc5f512cc2e392b44e3f8cf29d22772"
+    }, 
+    "res/btn/quxiao.png": {
+      "md5": "7482d37a086ccb817b000866bab838c0"
+    }, 
+    "res/btn/return_hall_down.png": {
+      "md5": "cf34e5ad25fd6232ba673d2d91dee4bd"
+    }, 
+    "res/btn/return_hall_up.png": {
+      "md5": "573808a662e5053f7deac5afbf46c045"
+    }, 
+    "res/btn/settlement_share_down.png": {
+      "md5": "09c7865c95ea45bb8a7d693e0ff7585d"
+    }, 
+    "res/btn/settlement_share_up.png": {
+      "md5": "8bbacdcc37b8b06f1d69aed3dfe35c3e"
+    }, 
+    "res/btn/share_down.png": {
+      "md5": "3df25de02181f628f02eff1af7f75362"
+    }, 
+    "res/btn/share_up.png": {
+      "md5": "9cef8c4e7b0f0edea61eb8d950ee34dd"
+    }, 
+    "res/btn/shezhi.png": {
+      "md5": "b84d6338e777c7f13a2567a8f2bcb299"
+    }, 
+    "res/btn/shezhi_1.png": {
+      "md5": "aecfc66183d92fa463142f513a77aa73"
+    }, 
+    "res/btn/tuichu.png": {
+      "md5": "6270e205e48b28d6334e757ec5e7c873"
+    }, 
+    "res/btn/wechat.png": {
+      "md5": "b68a5cdebac0568fe119fb0ad25e8379"
+    }, 
+    "res/btn/wechat_xuanzhong.png": {
+      "md5": "4e18f75bff7bc4af315cf7bb2cabd62b"
+    }, 
+    "res/btn/x.png": {
+      "md5": "1f7e7e1f4b116553d5595fa32e387225"
+    }, 
+    "res/btn/yaoqingweixinhaoyou.png": {
+      "md5": "52e0dcbe5ed2c9d03feaeadc6e50b5df"
+    }, 
+    "res/btn/yaoqingweixinhaoyou_1.png": {
+      "md5": "d8d84c0b43de3bf7006f1dfce27fcc46"
+    }, 
+    "res/btn/yaoqinhaoyou_down.png": {
+      "md5": "2c983b3a2ea8c88988e7c1cb130913bf"
+    }, 
+    "res/btn/yaoqinhaoyou_up.png": {
+      "md5": "baa2dcf29ffb49303220ae92ee610eac"
+    }, 
+    "res/btn/zhanji.png": {
+      "md5": "428ea8a111273b17fa809fe98e3ab53a"
+    }, 
+    "res/btn/zhunbei.png": {
+      "md5": "e0cf1725dacd4dd03feb8defb09cabc2"
+    }, 
+    "res/btn/zuan_1.png": {
+      "md5": "e9971e61bd12f2a78d0678efdcf522b8"
+    }, 
+    "res/btn/zuan_2.png": {
+      "md5": "25f50a60f3808a69b74b071f8381ab92"
+    }, 
+    "res/choose_dialog.json": {
+      "md5": "8f6acea6f5f672097d50a83d611a2d48"
+    }, 
+    "res/create_room_dialog.json": {
+      "md5": "a36c1a11900fc2e99ac5f0b2dc138ba7"
+    }, 
+    "res/dec/add.png": {
+      "md5": "af2c740f019222d92367485ebef3aafc"
+    }, 
+    "res/dec/bg_difen.png": {
+      "md5": "eb06b56e64237848e0a9933af0875205"
+    }, 
+    "res/dec/biaoqing_line.png": {
+      "md5": "b020a8c7e7c8049a20a5f141c772f00d"
+    }, 
+    "res/dec/bihua.png": {
+      "md5": "344701a87f84272a694fd7c46f0b10d5"
+    }, 
+    "res/dec/caidan.png": {
+      "md5": "ade896f5e50a60186130b16806f20920"
+    }, 
+    "res/dec/daojishi.png": {
+      "md5": "897e10a813680371876a82b2bc2820e9"
+    }, 
+    "res/dec/dianchi.png": {
+      "md5": "762220f8acddd768b6b03c4b75bfdc72"
+    }, 
+    "res/dec/dianchixin.png": {
+      "md5": "22cd39f9ec5e00006ddb2ecffcb988f1"
+    }, 
+    "res/dec/dot.png": {
+      "md5": "e238dca52357ed80bc4ae8d3df465666"
+    }, 
+    "res/dec/dot_bg.png": {
+      "md5": "283a4367934ba3802c17b2373f604c0d"
+    }, 
+    "res/dec/erweima.png": {
+      "md5": "2bc3b7bd14c6367ab9ef41a6af0d8065"
+    }, 
+    "res/dec/fangjianneitouxiang_1.png": {
+      "md5": "37ccf4733d79f82b532358fc7d1921a3"
+    }, 
+    "res/dec/fangjianneitouxiang_2.png": {
+      "md5": "dae2fd6b83cd543118b80292aa048346"
+    }, 
+    "res/dec/fegexian.png": {
+      "md5": "ab1ea4455ad79304746700139542d652"
+    }, 
+    "res/dec/gem.png": {
+      "md5": "35a864640b29a87dd341da88df306df1"
+    }, 
+    "res/dec/gem_1.png": {
+      "md5": "028cd8ac3c8637bbb20cb18dfec60722"
+    }, 
+    "res/dec/gem_bg.png": {
+      "md5": "39e487661b8e7ba0250fa95cbcf629ab"
+    }, 
+    "res/dec/hell_diamonds.png": {
+      "md5": "33fb93dca5d823533b211dfac3d826a2"
+    }, 
+    "res/dec/hell_dynamic_bar.png": {
+      "md5": "c9aab8e0c5de23d5863962d165504317"
+    }, 
+    "res/dec/hell_horn.png": {
+      "md5": "3e81db5c03cf58a074269f979934a43d"
+    }, 
+    "res/dec/hell_line_head.png": {
+      "md5": "c3b1cd98ea506ed04196a4fc2e4faa9a"
+    }, 
+    "res/dec/hell_saoguangfanwei.png": {
+      "md5": "52dcb37fcf7d4c9462e2b3042629197d"
+    }, 
+    "res/dec/hell_saoguangfanwei_mask.png": {
+      "md5": "57614a479e857aaeccf6fd0c8ba92180"
+    }, 
+    "res/dec/hell_xinxin.png": {
+      "md5": "818125ef9a288dd8c9252731925ba09e"
+    }, 
+    "res/dec/hu.png": {
+      "md5": "58166b739c3b6d5a3128eaaa1c10ff29"
+    }, 
+    "res/dec/huodongtupian.png": {
+      "md5": "51d02cffeecf3c572e56912b528d802f"
+    }, 
+    "res/dec/hupaitishi.png": {
+      "md5": "53ae510056d17994787c67539574e71e"
+    }, 
+    "res/dec/jishiqi.png": {
+      "md5": "afd1d1f41d3dd600cf773c5d76f23260"
+    }, 
+    "res/dec/liaotiankuang.png": {
+      "md5": "249b2e4c1804db692e5abf495945c002"
+    }, 
+    "res/dec/liaotiankuang_1.png": {
+      "md5": "ec0e08d620eaef453e2924a59b1dbe81"
+    }, 
+    "res/dec/lingzuanshi_light.png": {
+      "md5": "0de1df6b6c1bb7cb040cdf9c30d64c0b"
+    }, 
+    "res/dec/loading_bg.png": {
+      "md5": "aa6e90cbe48948a39574318b64aeb9d9"
+    }, 
+    "res/dec/loading_tiao.png": {
+      "md5": "ebb15fe17f387cc15b500504dfe322b8"
+    }, 
+    "res/dec/logon_tick.png": {
+      "md5": "de8ed49b47d30f4707012a79a7087ab0"
+    }, 
+    "res/dec/logon_tick_bg.png": {
+      "md5": "5ab6d692393023f548901b105f06b6a8"
+    }, 
+    "res/dec/long.png": {
+      "md5": "52e37adc4b7a36c75bbda9c95b8524f3"
+    }, 
+    "res/dec/mingzikuang.png": {
+      "md5": "fb36e3bbaa51d7ca1b26cb0050cc944f"
+    }, 
+    "res/dec/morentouxiang.png": {
+      "md5": "74dcc9655ed2ce1704fbde147e9c3d20"
+    }, 
+    "res/dec/mukuang.png": {
+      "md5": "e7825040fc5b3ba146878639f43ba1f5"
+    }, 
+    "res/dec/paodan.png": {
+      "md5": "c0ad23968738f10b4809f16552851faa"
+    }, 
+    "res/dec/renqiumajiang.png": {
+      "md5": "a9cc4a98f8949d577b8ba8cadb4fdf91"
+    }, 
+    "res/dec/room_1.png": {
+      "md5": "6ca04cf34bd93f9564a8c2f6f2b098b4"
+    }, 
+    "res/dec/room_2.png": {
+      "md5": "b10045a17b6251518f72b533f4019dd8"
+    }, 
+    "res/dec/room_3.png": {
+      "md5": "6ac5884993634f43cbdd70205bfeabbe"
+    }, 
+    "res/dec/room_4.png": {
+      "md5": "f90caaf4d5649f9e01a12d07a8a167f0"
+    }, 
+    "res/dec/send_box.png": {
+      "md5": "36066d9caf34f5f25832d24341b95624"
+    }, 
+    "res/dec/settlement_heat.png": {
+      "md5": "7c23a5c8e1cf8663cddcdb87335e0783"
+    }, 
+    "res/dec/shaizi.png": {
+      "md5": "736ccb92f99d94a04085f08cb346eddb"
+    }, 
+    "res/dec/shijiandizuo.png": {
+      "md5": "329398cc2d563f4520557a131e999610"
+    }, 
+    "res/dec/tianyouqipai.png": {
+      "md5": "cb21eb95169bbf5ba6aea5167495ef1b"
+    }, 
+    "res/dec/ting.png": {
+      "md5": "6b5c242febb7659bf9529fba9c09cb12"
+    }, 
+    "res/dec/touxiang_dec.png": {
+      "md5": "bf09ecd0bfa9d44b55ce7d4061007f30"
+    }, 
+    "res/dec/touxiangkuang.png": {
+      "md5": "6a711a74a48e07e6e40bea8ad80cd6fb"
+    }, 
+    "res/dec/touxiangkuang1.png": {
+      "md5": "ae1f316c2affda0f6980a6ef1fe4f16e"
+    }, 
+    "res/dec/touxiangkuang2.png": {
+      "md5": "32f7b9a61d02a48f0b7cc6e26a2c0a1b"
+    }, 
+    "res/dec/touxiangzhezhao.png": {
+      "md5": "1e12ae17bba042375fe1ff0310cd29e2"
+    }, 
+    "res/dec/touxiangzhezhao_2.png": {
+      "md5": "9614bbb411c0c1044804be479e04c891"
+    }, 
+    "res/dec/voice_play1.png": {
+      "md5": "88d4e10e38406df0a5f74e4ae7727e1b"
+    }, 
+    "res/dec/voice_play2.png": {
+      "md5": "afe14357a0a92da86588c917951dd822"
+    }, 
+    "res/dec/voice_play3.png": {
+      "md5": "ef709463d7fd33132789d041facf0fbc"
+    }, 
+    "res/dec/voice_play_bg.png": {
+      "md5": "958e953b70b1ea02924d4f3074851c48"
+    }, 
+    "res/dec/weixin_dec.png": {
+      "md5": "d379de7520980aff7959072639b1027a"
+    }, 
+    "res/dec/win.png": {
+      "md5": "d9109e56c6b84d0499b24f5549772f32"
+    }, 
+    "res/dec/xuanzedi.png": {
+      "md5": "67a545289394e21df7687b914a1518a9"
+    }, 
+    "res/dec/yinying.png": {
+      "md5": "8ad9f115962d0f179cdef2f629143bfe"
+    }, 
+    "res/dec/yonghuxieyi.png": {
+      "md5": "1a5d89190395f555a9a2ca8bb6d9a7ad"
+    }, 
+    "res/dec/yuyiingyinliang.png": {
+      "md5": "db3c1f801b3dcb40519beb59895cdf93"
+    }, 
+    "res/dec/yuyin.png": {
+      "md5": "2fe3d1ad69d5d3d636116b6d8cd988eb"
+    }, 
+    "res/dec/yuyintishi.png": {
+      "md5": "b7331b84461f912a7f13556232958517"
+    }, 
+    "res/dec/zhangshuxianshi.png": {
+      "md5": "2ce256776fa54e5a3a89bdb62e13036d"
+    }, 
+    "res/dec/zhezhaoceng.png": {
+      "md5": "c14da951ef2c62ef94a93229461de87b"
+    }, 
+    "res/dec/zhezhaokuang.png": {
+      "md5": "668f4da22ff97c1ad1f95e90865e0edb"
+    }, 
+    "res/dec/zhishikuang.png": {
+      "md5": "861c225f9cf04747ac3541c29167f891"
+    }, 
+    "res/dec/zhuang.png": {
+      "md5": "741d7943f22bea0c74551ff63c8e703e"
+    }, 
+    "res/dec/zhuang_1.png": {
+      "md5": "d4512ffa9c5095b8b1eb63243dc44ea6"
+    }, 
+    "res/dec/zhunbei.png": {
+      "md5": "b4f77b3c89c8bf6caccd47cb61440f88"
+    }, 
+    "res/dec/zhunbei_shoushi.png": {
+      "md5": "14b997672da259e8021a3a0c6a7234fc"
+    }, 
+    "res/dec/zitixianshi.png": {
+      "md5": "2063754eca0560121fad4dfc362e4351"
+    }, 
+    "res/dec/zuihuasuan.png": {
+      "md5": "64817ad649ec9fcafbe696b889571249"
+    }, 
+    "res/dec/zuihuobao.png": {
+      "md5": "5e048774c443f773003cd96bff283e89"
+    }, 
+    "res/dec/zuobiaodi.png": {
+      "md5": "11fd8e59552c5ebaf889b4fb4c625059"
+    }, 
+    "res/emoticon/1/1.png": {
+      "md5": "f1b3e24e5c6e54004831cea12fe17a62"
+    }, 
+    "res/emoticon/1/2.png": {
+      "md5": "2f0979e312a2932635d80134e9f994b5"
+    }, 
+    "res/emoticon/1/3.png": {
+      "md5": "b96e3a3e21ab9fbb67c5bab83b98402f"
+    }, 
+    "res/emoticon/1/4.png": {
+      "md5": "3edb5f731b124a6e97bf9cd427ce28c5"
+    }, 
+    "res/emoticon/1/5.png": {
+      "md5": "f1b3e24e5c6e54004831cea12fe17a62"
+    }, 
+    "res/emoticon/1/6.png": {
+      "md5": "08fd4fb4800f2789fabfd0b54fa6d64c"
+    }, 
+    "res/emoticon/1/7.png": {
+      "md5": "b96e3a3e21ab9fbb67c5bab83b98402f"
+    }, 
+    "res/emoticon/1/8.png": {
+      "md5": "3edb5f731b124a6e97bf9cd427ce28c5"
+    }, 
+    "res/emoticon/1/icon.png": {
+      "md5": "a3a4dd2e815596d596af9aea36c6c139"
+    }, 
+    "res/emoticon/10/1.png": {
+      "md5": "38a03f32b859e11be532eac09f5fe45d"
+    }, 
+    "res/emoticon/10/10.png": {
+      "md5": "cae087863b35155bb01433a1e8034761"
+    }, 
+    "res/emoticon/10/11.png": {
+      "md5": "ceb1a19e04552be129287438c9d32295"
+    }, 
+    "res/emoticon/10/12.png": {
+      "md5": "002cefa41dcb0d94826dd92a1dabf0ef"
+    }, 
+    "res/emoticon/10/13.png": {
+      "md5": "fa91fd7906632a6af7e54daba0952015"
+    }, 
+    "res/emoticon/10/14.png": {
+      "md5": "38fae8c0f10216c7b91cb4e7b9b81665"
+    }, 
+    "res/emoticon/10/15.png": {
+      "md5": "0736eff682c2c2d84a4c3f7224faafa4"
+    }, 
+    "res/emoticon/10/16.png": {
+      "md5": "a3a59d38ea2c36f2b09db277d665cf14"
+    }, 
+    "res/emoticon/10/17.png": {
+      "md5": "38a03f32b859e11be532eac09f5fe45d"
+    }, 
+    "res/emoticon/10/18.png": {
+      "md5": "38a03f32b859e11be532eac09f5fe45d"
+    }, 
+    "res/emoticon/10/19.png": {
+      "md5": "a3a59d38ea2c36f2b09db277d665cf14"
+    }, 
+    "res/emoticon/10/2.png": {
+      "md5": "38a03f32b859e11be532eac09f5fe45d"
+    }, 
+    "res/emoticon/10/20.png": {
+      "md5": "0736eff682c2c2d84a4c3f7224faafa4"
+    }, 
+    "res/emoticon/10/21.png": {
+      "md5": "38fae8c0f10216c7b91cb4e7b9b81665"
+    }, 
+    "res/emoticon/10/22.png": {
+      "md5": "fa91fd7906632a6af7e54daba0952015"
+    }, 
+    "res/emoticon/10/23.png": {
+      "md5": "002cefa41dcb0d94826dd92a1dabf0ef"
+    }, 
+    "res/emoticon/10/24.png": {
+      "md5": "ceb1a19e04552be129287438c9d32295"
+    }, 
+    "res/emoticon/10/25.png": {
+      "md5": "cae087863b35155bb01433a1e8034761"
+    }, 
+    "res/emoticon/10/26.png": {
+      "md5": "fa91fd7906632a6af7e54daba0952015"
+    }, 
+    "res/emoticon/10/27.png": {
+      "md5": "fa91fd7906632a6af7e54daba0952015"
+    }, 
+    "res/emoticon/10/28.png": {
+      "md5": "9e07f5107bbbf9bee77c108e14d57d35"
+    }, 
+    "res/emoticon/10/29.png": {
+      "md5": "38a03f32b859e11be532eac09f5fe45d"
+    }, 
+    "res/emoticon/10/3.png": {
+      "md5": "38a03f32b859e11be532eac09f5fe45d"
+    }, 
+    "res/emoticon/10/30.png": {
+      "md5": "38a03f32b859e11be532eac09f5fe45d"
+    }, 
+    "res/emoticon/10/4.png": {
+      "md5": "38a03f32b859e11be532eac09f5fe45d"
+    }, 
+    "res/emoticon/10/5.png": {
+      "md5": "38a03f32b859e11be532eac09f5fe45d"
+    }, 
+    "res/emoticon/10/6.png": {
+      "md5": "38a03f32b859e11be532eac09f5fe45d"
+    }, 
+    "res/emoticon/10/7.png": {
+      "md5": "9e07f5107bbbf9bee77c108e14d57d35"
+    }, 
+    "res/emoticon/10/8.png": {
+      "md5": "fa91fd7906632a6af7e54daba0952015"
+    }, 
+    "res/emoticon/10/9.png": {
+      "md5": "fa91fd7906632a6af7e54daba0952015"
+    }, 
+    "res/emoticon/10/icon.png": {
+      "md5": "6135f8790477cd1e74000caa7af9f9b5"
+    }, 
+    "res/emoticon/11/1.png": {
+      "md5": "0d22656aeaef1ea0a7a512079b7159f8"
+    }, 
+    "res/emoticon/11/10.png": {
+      "md5": "25ca9580cf09c6100ffcdac3e3de15f8"
+    }, 
+    "res/emoticon/11/11.png": {
+      "md5": "e684bdcce11d11c3805b075a26ad92bf"
+    }, 
+    "res/emoticon/11/12.png": {
+      "md5": "d79ff124389d7c683a4e3dfa5bcb3643"
+    }, 
+    "res/emoticon/11/13.png": {
+      "md5": "5c25a2db9c5369a1fab1de3c210296c0"
+    }, 
+    "res/emoticon/11/14.png": {
+      "md5": "b162d26212e35de594e2dc46da73d9b5"
+    }, 
+    "res/emoticon/11/15.png": {
+      "md5": "246caebdd0a143592a97997ce68debec"
+    }, 
+    "res/emoticon/11/16.png": {
+      "md5": "4123a1f05612051d44befdd5ce69826a"
+    }, 
+    "res/emoticon/11/17.png": {
+      "md5": "e9cdb8136c634251cbe711a7d717868c"
+    }, 
+    "res/emoticon/11/18.png": {
+      "md5": "18349614802cde9daaadd9f5d22d3dbe"
+    }, 
+    "res/emoticon/11/19.png": {
+      "md5": "18db5351b28f16452606fea4e378410e"
+    }, 
+    "res/emoticon/11/2.png": {
+      "md5": "0d22656aeaef1ea0a7a512079b7159f8"
+    }, 
+    "res/emoticon/11/20.png": {
+      "md5": "3d0d8d6d5d44f24440feb9bd6d6b25c5"
+    }, 
+    "res/emoticon/11/21.png": {
+      "md5": "be9b9a6e02097b6e1aa483a43fc1205a"
+    }, 
+    "res/emoticon/11/22.png": {
+      "md5": "32f4ce943d1413dc8f077c011a48d2f9"
+    }, 
+    "res/emoticon/11/23.png": {
+      "md5": "042cd8a9ff8bf89708926afc3f94c5e8"
+    }, 
+    "res/emoticon/11/24.png": {
+      "md5": "57887fa878f235367ff416245bba2f5d"
+    }, 
+    "res/emoticon/11/25.png": {
+      "md5": "064a8caa7b3ea252f1f9402e7105b37e"
+    }, 
+    "res/emoticon/11/26.png": {
+      "md5": "bf4e8c03a273649a30115dd143fee31f"
+    }, 
+    "res/emoticon/11/27.png": {
+      "md5": "349a44dfdc226b9bfb9805ca796ae231"
+    }, 
+    "res/emoticon/11/28.png": {
+      "md5": "38909b3eef41d56af64514212cfbc0ee"
+    }, 
+    "res/emoticon/11/29.png": {
+      "md5": "2e4882c464e8a263481ca11d3da10aee"
+    }, 
+    "res/emoticon/11/3.png": {
+      "md5": "0d22656aeaef1ea0a7a512079b7159f8"
+    }, 
+    "res/emoticon/11/30.png": {
+      "md5": "ffc9dbd47a1811f9ed67b1a3f8b89827"
+    }, 
+    "res/emoticon/11/4.png": {
+      "md5": "0d22656aeaef1ea0a7a512079b7159f8"
+    }, 
+    "res/emoticon/11/5.png": {
+      "md5": "0d22656aeaef1ea0a7a512079b7159f8"
+    }, 
+    "res/emoticon/11/6.png": {
+      "md5": "0d22656aeaef1ea0a7a512079b7159f8"
+    }, 
+    "res/emoticon/11/7.png": {
+      "md5": "0d22656aeaef1ea0a7a512079b7159f8"
+    }, 
+    "res/emoticon/11/8.png": {
+      "md5": "2c55c5a6533ec9da9ac434d64df9fbe2"
+    }, 
+    "res/emoticon/11/9.png": {
+      "md5": "99bbb8b3ad3be22d072df7078d75279c"
+    }, 
+    "res/emoticon/11/icon.png": {
+      "md5": "18eef619f29f819734c7d9565fc1be62"
+    }, 
+    "res/emoticon/12/1.png": {
+      "md5": "3ff24219e18238844c475ed20ce2643b"
+    }, 
+    "res/emoticon/12/10.png": {
+      "md5": "57bf56f8d38663e324d5a9e924afaf52"
+    }, 
+    "res/emoticon/12/2.png": {
+      "md5": "dd6092cbcdf8f620546284fbc9baaa1d"
+    }, 
+    "res/emoticon/12/3.png": {
+      "md5": "288dfe1310db84fc177b503eed5ff3fc"
+    }, 
+    "res/emoticon/12/4.png": {
+      "md5": "75f67cd50a0b6d067da191be8be87e04"
+    }, 
+    "res/emoticon/12/5.png": {
+      "md5": "dec1e013a030fcc693efce5f0167f407"
+    }, 
+    "res/emoticon/12/6.png": {
+      "md5": "ac2d8b39b2d289955ffc9be351696334"
+    }, 
+    "res/emoticon/12/7.png": {
+      "md5": "2f2786bbf994e0f9dba875d3c1a4538f"
+    }, 
+    "res/emoticon/12/8.png": {
+      "md5": "57bf56f8d38663e324d5a9e924afaf52"
+    }, 
+    "res/emoticon/12/9.png": {
+      "md5": "57bf56f8d38663e324d5a9e924afaf52"
+    }, 
+    "res/emoticon/12/icon.png": {
+      "md5": "02e6b0f9090f28b5cbb08caa2798d1b2"
+    }, 
+    "res/emoticon/13/1.png": {
+      "md5": "7c732019144cd658afaf168b432922fb"
+    }, 
+    "res/emoticon/13/10.png": {
+      "md5": "4805f860a6093f1dcb30a105b0feb51b"
+    }, 
+    "res/emoticon/13/11.png": {
+      "md5": "bf5af1632739e4cecb6ed07cb995ede0"
+    }, 
+    "res/emoticon/13/12.png": {
+      "md5": "114e92fb4293fedb45b9b228ebb91ab6"
+    }, 
+    "res/emoticon/13/13.png": {
+      "md5": "7c732019144cd658afaf168b432922fb"
+    }, 
+    "res/emoticon/13/14.png": {
+      "md5": "4a087bb86455b7e857b632ce11a71f38"
+    }, 
+    "res/emoticon/13/15.png": {
+      "md5": "29a749bf1ef3dbb9507d9f55127a4902"
+    }, 
+    "res/emoticon/13/16.png": {
+      "md5": "4805f860a6093f1dcb30a105b0feb51b"
+    }, 
+    "res/emoticon/13/17.png": {
+      "md5": "bf5af1632739e4cecb6ed07cb995ede0"
+    }, 
+    "res/emoticon/13/18.png": {
+      "md5": "114e92fb4293fedb45b9b228ebb91ab6"
+    }, 
+    "res/emoticon/13/19.png": {
+      "md5": "7c732019144cd658afaf168b432922fb"
+    }, 
+    "res/emoticon/13/2.png": {
+      "md5": "4a087bb86455b7e857b632ce11a71f38"
+    }, 
+    "res/emoticon/13/20.png": {
+      "md5": "4a087bb86455b7e857b632ce11a71f38"
+    }, 
+    "res/emoticon/13/21.png": {
+      "md5": "29a749bf1ef3dbb9507d9f55127a4902"
+    }, 
+    "res/emoticon/13/3.png": {
+      "md5": "29a749bf1ef3dbb9507d9f55127a4902"
+    }, 
+    "res/emoticon/13/4.png": {
+      "md5": "4805f860a6093f1dcb30a105b0feb51b"
+    }, 
+    "res/emoticon/13/5.png": {
+      "md5": "bf5af1632739e4cecb6ed07cb995ede0"
+    }, 
+    "res/emoticon/13/6.png": {
+      "md5": "114e92fb4293fedb45b9b228ebb91ab6"
+    }, 
+    "res/emoticon/13/7.png": {
+      "md5": "7c732019144cd658afaf168b432922fb"
+    }, 
+    "res/emoticon/13/8.png": {
+      "md5": "4a087bb86455b7e857b632ce11a71f38"
+    }, 
+    "res/emoticon/13/9.png": {
+      "md5": "29a749bf1ef3dbb9507d9f55127a4902"
+    }, 
+    "res/emoticon/13/icon.png": {
+      "md5": "875985a48aa0f71b1ebd88267ef05e3a"
+    }, 
+    "res/emoticon/14/1.png": {
+      "md5": "7ada31503cf4d951de01c650cd387496"
+    }, 
+    "res/emoticon/14/10.png": {
+      "md5": "0e3285e2038fc1739f7bd5e0a942fa6b"
+    }, 
+    "res/emoticon/14/2.png": {
+      "md5": "0e3285e2038fc1739f7bd5e0a942fa6b"
+    }, 
+    "res/emoticon/14/3.png": {
+      "md5": "7ada31503cf4d951de01c650cd387496"
+    }, 
+    "res/emoticon/14/4.png": {
+      "md5": "0e3285e2038fc1739f7bd5e0a942fa6b"
+    }, 
+    "res/emoticon/14/5.png": {
+      "md5": "7ada31503cf4d951de01c650cd387496"
+    }, 
+    "res/emoticon/14/6.png": {
+      "md5": "0e3285e2038fc1739f7bd5e0a942fa6b"
+    }, 
+    "res/emoticon/14/7.png": {
+      "md5": "7ada31503cf4d951de01c650cd387496"
+    }, 
+    "res/emoticon/14/8.png": {
+      "md5": "0e3285e2038fc1739f7bd5e0a942fa6b"
+    }, 
+    "res/emoticon/14/9.png": {
+      "md5": "7ada31503cf4d951de01c650cd387496"
+    }, 
+    "res/emoticon/14/icon.png": {
+      "md5": "77347fcf2d11934cb1491206baf06231"
+    }, 
+    "res/emoticon/15/1.png": {
+      "md5": "69457d12ade9cde4d327443f6a91c09f"
+    }, 
+    "res/emoticon/15/10.png": {
+      "md5": "73d5c84351ed12d6394dab827ea4a568"
+    }, 
+    "res/emoticon/15/11.png": {
+      "md5": "618e996175b0780a07dbc0751fb9bb93"
+    }, 
+    "res/emoticon/15/12.png": {
+      "md5": "558fb54cc1327707ceeb835f9e32a71b"
+    }, 
+    "res/emoticon/15/13.png": {
+      "md5": "22cdab20b95e992d0a8ca2d4ddafd1df"
+    }, 
+    "res/emoticon/15/14.png": {
+      "md5": "c65d2c1ee7571cdc8087040766cd8b99"
+    }, 
+    "res/emoticon/15/15.png": {
+      "md5": "ce04afe63c1f4bbf36421ff89374d5dc"
+    }, 
+    "res/emoticon/15/16.png": {
+      "md5": "23da6bb1aff3a57149dd58affab7e171"
+    }, 
+    "res/emoticon/15/17.png": {
+      "md5": "ce73d00c5029640f93b681408ed29e9b"
+    }, 
+    "res/emoticon/15/18.png": {
+      "md5": "dd849ffe544aa8065ceb3283bab7094a"
+    }, 
+    "res/emoticon/15/19.png": {
+      "md5": "c65d2c1ee7571cdc8087040766cd8b99"
+    }, 
+    "res/emoticon/15/2.png": {
+      "md5": "eb061d8493bcfa782baa5a3f7a94c171"
+    }, 
+    "res/emoticon/15/3.png": {
+      "md5": "dd849ffe544aa8065ceb3283bab7094a"
+    }, 
+    "res/emoticon/15/4.png": {
+      "md5": "05fb1c2b4fe595863da78b5466ff256f"
+    }, 
+    "res/emoticon/15/5.png": {
+      "md5": "3f0754a83cfa2129e3d9b4d6497e39ac"
+    }, 
+    "res/emoticon/15/6.png": {
+      "md5": "b930f893c60238538d383fcd9ad708d5"
+    }, 
+    "res/emoticon/15/7.png": {
+      "md5": "f1aef1a67158faf4012b56c785771b00"
+    }, 
+    "res/emoticon/15/8.png": {
+      "md5": "a7acc9c384776cd5e43f58aee40d7651"
+    }, 
+    "res/emoticon/15/9.png": {
+      "md5": "891f9fb3617c4c736b9806b0e87ebaf1"
+    }, 
+    "res/emoticon/15/icon.png": {
+      "md5": "1a837cf082ccd060e850541a04ae7b60"
+    }, 
+    "res/emoticon/16/1.png": {
+      "md5": "b5a5f62843df253e04618ff9fdbcb79d"
+    }, 
+    "res/emoticon/16/10.png": {
+      "md5": "5c5e456f2db9b7e47ee4b353506db032"
+    }, 
+    "res/emoticon/16/11.png": {
+      "md5": "5c5e456f2db9b7e47ee4b353506db032"
+    }, 
+    "res/emoticon/16/12.png": {
+      "md5": "e0ed2305d123605c20e4d098a8fe14be"
+    }, 
+    "res/emoticon/16/13.png": {
+      "md5": "e0ed2305d123605c20e4d098a8fe14be"
+    }, 
+    "res/emoticon/16/14.png": {
+      "md5": "86912afece82011356a790301a614198"
+    }, 
+    "res/emoticon/16/15.png": {
+      "md5": "599ffe45ba379ac39a42e830d84816a1"
+    }, 
+    "res/emoticon/16/16.png": {
+      "md5": "f36d7bdbaea9a36d969aaf764bdab37a"
+    }, 
+    "res/emoticon/16/17.png": {
+      "md5": "901adc3ec4f11344665b9afdcecbdc4d"
+    }, 
+    "res/emoticon/16/18.png": {
+      "md5": "fa59d5dff84453b3386b29aaffadd75a"
+    }, 
+    "res/emoticon/16/19.png": {
+      "md5": "77208073a5f9379a32a0bfe2f6a5475f"
+    }, 
+    "res/emoticon/16/2.png": {
+      "md5": "b5a5f62843df253e04618ff9fdbcb79d"
+    }, 
+    "res/emoticon/16/20.png": {
+      "md5": "77208073a5f9379a32a0bfe2f6a5475f"
+    }, 
+    "res/emoticon/16/21.png": {
+      "md5": "77208073a5f9379a32a0bfe2f6a5475f"
+    }, 
+    "res/emoticon/16/22.png": {
+      "md5": "77208073a5f9379a32a0bfe2f6a5475f"
+    }, 
+    "res/emoticon/16/23.png": {
+      "md5": "77208073a5f9379a32a0bfe2f6a5475f"
+    }, 
+    "res/emoticon/16/24.png": {
+      "md5": "77208073a5f9379a32a0bfe2f6a5475f"
+    }, 
+    "res/emoticon/16/25.png": {
+      "md5": "77208073a5f9379a32a0bfe2f6a5475f"
+    }, 
+    "res/emoticon/16/26.png": {
+      "md5": "77208073a5f9379a32a0bfe2f6a5475f"
+    }, 
+    "res/emoticon/16/27.png": {
+      "md5": "77208073a5f9379a32a0bfe2f6a5475f"
+    }, 
+    "res/emoticon/16/28.png": {
+      "md5": "77208073a5f9379a32a0bfe2f6a5475f"
+    }, 
+    "res/emoticon/16/3.png": {
+      "md5": "b5a5f62843df253e04618ff9fdbcb79d"
+    }, 
+    "res/emoticon/16/4.png": {
+      "md5": "f1221c47800fef2e97e65f529de2278c"
+    }, 
+    "res/emoticon/16/5.png": {
+      "md5": "f1221c47800fef2e97e65f529de2278c"
+    }, 
+    "res/emoticon/16/6.png": {
+      "md5": "f20cd0c0c2f7aca0a2ff6edb753f0569"
+    }, 
+    "res/emoticon/16/7.png": {
+      "md5": "f20cd0c0c2f7aca0a2ff6edb753f0569"
+    }, 
+    "res/emoticon/16/8.png": {
+      "md5": "f1e9f26b6bab643e08d4a976a045d21d"
+    }, 
+    "res/emoticon/16/9.png": {
+      "md5": "f1e9f26b6bab643e08d4a976a045d21d"
+    }, 
+    "res/emoticon/16/icon.png": {
+      "md5": "9e48257a750c3df6347ab6743d01539a"
+    }, 
+    "res/emoticon/17/1.png": {
+      "md5": "c0f661c4f6690c84d07f2522c54cc9cd"
+    }, 
+    "res/emoticon/17/10.png": {
+      "md5": "9821c340c168454a4b2667ec6ec6eb16"
+    }, 
+    "res/emoticon/17/2.png": {
+      "md5": "ef5d8f07d433d3c8868624f70e639686"
+    }, 
+    "res/emoticon/17/3.png": {
+      "md5": "62f4dbcf8f7228e1329e71fe9cce853d"
+    }, 
+    "res/emoticon/17/4.png": {
+      "md5": "a6caa8db97ffd6184ecfce3238a456dc"
+    }, 
+    "res/emoticon/17/5.png": {
+      "md5": "f21056121d78c3d60e9e8d9c6dbc56c9"
+    }, 
+    "res/emoticon/17/6.png": {
+      "md5": "445423a96edd222797cc1c9c07744bc5"
+    }, 
+    "res/emoticon/17/7.png": {
+      "md5": "eaf6318746aac01de74b32b0639e73e3"
+    }, 
+    "res/emoticon/17/8.png": {
+      "md5": "6df09b5eb6d312d9c54e3f7284e1e283"
+    }, 
+    "res/emoticon/17/9.png": {
+      "md5": "2cff3fd3a9922d983b46049bd236567e"
+    }, 
+    "res/emoticon/17/icon.png": {
+      "md5": "5162cba1f4f51f4550f002cd4b388bb5"
+    }, 
+    "res/emoticon/18/1.png": {
+      "md5": "ed3dcd4d42e314f1dec0b85c5cf2ec58"
+    }, 
+    "res/emoticon/18/10.png": {
+      "md5": "609d5c9ff3cc1508f6640b998138ce82"
+    }, 
+    "res/emoticon/18/11.png": {
+      "md5": "a2c51acc761dcfa2bab3f8da5666ec27"
+    }, 
+    "res/emoticon/18/12.png": {
+      "md5": "ca17bf22d407e7668e4a1666b58ece22"
+    }, 
+    "res/emoticon/18/13.png": {
+      "md5": "9b0e35cf967a2370ac3e8ca7d3a2bae5"
+    }, 
+    "res/emoticon/18/14.png": {
+      "md5": "f945e7e2b0ae4fa66a2fd34a408ad467"
+    }, 
+    "res/emoticon/18/15.png": {
+      "md5": "94c1537b711dfb98083ed562f3f9c744"
+    }, 
+    "res/emoticon/18/16.png": {
+      "md5": "7c602f6227b08c23eed46d8564887a70"
+    }, 
+    "res/emoticon/18/17.png": {
+      "md5": "7c602f6227b08c23eed46d8564887a70"
+    }, 
+    "res/emoticon/18/18.png": {
+      "md5": "8c5242c1a83f9c6e84ccddb563099b88"
+    }, 
+    "res/emoticon/18/19.png": {
+      "md5": "c647e5f43485f2b5c8816d94a4b748a8"
+    }, 
+    "res/emoticon/18/2.png": {
+      "md5": "1c0013d11c489ec0768845a55feb7f34"
+    }, 
+    "res/emoticon/18/20.png": {
+      "md5": "89d6038ffdbbb2bae8d2ac8b2eb95ee6"
+    }, 
+    "res/emoticon/18/21.png": {
+      "md5": "3790d407271bb2baa9a3d5873c1da685"
+    }, 
+    "res/emoticon/18/22.png": {
+      "md5": "83ed1644a434b158d8da8e95b6bfd0ad"
+    }, 
+    "res/emoticon/18/23.png": {
+      "md5": "a87cfdf2ce909b94f98bb48e97cdfc90"
+    }, 
+    "res/emoticon/18/24.png": {
+      "md5": "6990a6c0cd0c1a0beeccfe2b600080bf"
+    }, 
+    "res/emoticon/18/25.png": {
+      "md5": "111aaf4bdcdc175d045e662b48cd0f7a"
+    }, 
+    "res/emoticon/18/26.png": {
+      "md5": "0f61dde6cc3951593d1a28b8501c023f"
+    }, 
+    "res/emoticon/18/27.png": {
+      "md5": "efc6ad988eae8be3c06f6afcefce58a3"
+    }, 
+    "res/emoticon/18/28.png": {
+      "md5": "223926b769c71ec0118db1643ced00d1"
+    }, 
+    "res/emoticon/18/29.png": {
+      "md5": "67a614f1dff5653419db17b5366761c2"
+    }, 
+    "res/emoticon/18/3.png": {
+      "md5": "bbfa1c4efb3e05d1bb21bd87168a4ea0"
+    }, 
+    "res/emoticon/18/30.png": {
+      "md5": "6ee3afd65949a59775b432ce626e7ee1"
+    }, 
+    "res/emoticon/18/31.png": {
+      "md5": "bb1bd9f9c3abdb836015d2245f93ebce"
+    }, 
+    "res/emoticon/18/32.png": {
+      "md5": "c0513e932f24757eee61c89ec2de93c8"
+    }, 
+    "res/emoticon/18/33.png": {
+      "md5": "77733b9198c0e842d1feaa50d7542f74"
+    }, 
+    "res/emoticon/18/34.png": {
+      "md5": "0a6f18113804a3e5b81a31e830238eca"
+    }, 
+    "res/emoticon/18/4.png": {
+      "md5": "8b469ba4db8467d694a734108864e430"
+    }, 
+    "res/emoticon/18/5.png": {
+      "md5": "4a28bb7d951604f17ad927f703b8fbef"
+    }, 
+    "res/emoticon/18/6.png": {
+      "md5": "a4352ddb6f014ff80506415aba3fef61"
+    }, 
+    "res/emoticon/18/7.png": {
+      "md5": "cf142c38176b0d77a5de782d93be0bd6"
+    }, 
+    "res/emoticon/18/8.png": {
+      "md5": "f57be4f58f4e9c54789f49509d3a876c"
+    }, 
+    "res/emoticon/18/9.png": {
+      "md5": "3a1f99612debbcf5fd687d0cdcf3df3d"
+    }, 
+    "res/emoticon/18/icon.png": {
+      "md5": "609dc4f6448258801aada9ee7443f4b2"
+    }, 
+    "res/emoticon/19/1.png": {
+      "md5": "2a582ff80370efd5916878ff51880045"
+    }, 
+    "res/emoticon/19/10.png": {
+      "md5": "7850955e77a8acf34509cd24b33620d7"
+    }, 
+    "res/emoticon/19/11.png": {
+      "md5": "8974b6e33b18acec2c54ffbea7f58f73"
+    }, 
+    "res/emoticon/19/12.png": {
+      "md5": "6b051c65097bc19aedf0842f2f68279a"
+    }, 
+    "res/emoticon/19/13.png": {
+      "md5": "6b051c65097bc19aedf0842f2f68279a"
+    }, 
+    "res/emoticon/19/14.png": {
+      "md5": "8974b6e33b18acec2c54ffbea7f58f73"
+    }, 
+    "res/emoticon/19/15.png": {
+      "md5": "7850955e77a8acf34509cd24b33620d7"
+    }, 
+    "res/emoticon/19/16.png": {
+      "md5": "ffe51c8132fc549b2f578f9d8de8ab01"
+    }, 
+    "res/emoticon/19/17.png": {
+      "md5": "52c7d98a71f8f70d598b46b17566441b"
+    }, 
+    "res/emoticon/19/18.png": {
+      "md5": "922d02ae292f15630f0003cfeb572bb1"
+    }, 
+    "res/emoticon/19/19.png": {
+      "md5": "2a582ff80370efd5916878ff51880045"
+    }, 
+    "res/emoticon/19/2.png": {
+      "md5": "2a582ff80370efd5916878ff51880045"
+    }, 
+    "res/emoticon/19/20.png": {
+      "md5": "2a582ff80370efd5916878ff51880045"
+    }, 
+    "res/emoticon/19/21.png": {
+      "md5": "922d02ae292f15630f0003cfeb572bb1"
+    }, 
+    "res/emoticon/19/22.png": {
+      "md5": "922d02ae292f15630f0003cfeb572bb1"
+    }, 
+    "res/emoticon/19/23.png": {
+      "md5": "2a582ff80370efd5916878ff51880045"
+    }, 
+    "res/emoticon/19/24.png": {
+      "md5": "2a582ff80370efd5916878ff51880045"
+    }, 
+    "res/emoticon/19/3.png": {
+      "md5": "922d02ae292f15630f0003cfeb572bb1"
+    }, 
+    "res/emoticon/19/4.png": {
+      "md5": "922d02ae292f15630f0003cfeb572bb1"
+    }, 
+    "res/emoticon/19/5.png": {
+      "md5": "2a582ff80370efd5916878ff51880045"
+    }, 
+    "res/emoticon/19/6.png": {
+      "md5": "2a582ff80370efd5916878ff51880045"
+    }, 
+    "res/emoticon/19/7.png": {
+      "md5": "922d02ae292f15630f0003cfeb572bb1"
+    }, 
+    "res/emoticon/19/8.png": {
+      "md5": "52c7d98a71f8f70d598b46b17566441b"
+    }, 
+    "res/emoticon/19/9.png": {
+      "md5": "ffe51c8132fc549b2f578f9d8de8ab01"
+    }, 
+    "res/emoticon/19/icon.png": {
+      "md5": "0e06bc51673ca1699bf881dc5980de02"
+    }, 
+    "res/emoticon/2/1.png": {
+      "md5": "5db41040546faa8093222ae2b3c0f82d"
+    }, 
+    "res/emoticon/2/2.png": {
+      "md5": "7ac3c70c247d17b86ee88785c4f3dc5d"
+    }, 
+    "res/emoticon/2/3.png": {
+      "md5": "3c5981a0f7155e6c066fb7d8e23fe693"
+    }, 
+    "res/emoticon/2/4.png": {
+      "md5": "f4a24aa81936ade3f93a73a4ce082700"
+    }, 
+    "res/emoticon/2/5.png": {
+      "md5": "1ba217f1202cc868b126f69ccb800e35"
+    }, 
+    "res/emoticon/2/6.png": {
+      "md5": "8eb3710c11398f16c301b0d2da9bc6b2"
+    }, 
+    "res/emoticon/2/icon.png": {
+      "md5": "5a69ceca44229ceffccc29e197d9cce1"
+    }, 
+    "res/emoticon/20/1.png": {
+      "md5": "bc43c4e68569e7bc76f0e9901354ac9b"
+    }, 
+    "res/emoticon/20/10.png": {
+      "md5": "d663ef553f3e8f5fdd77278c2b6386a2"
+    }, 
+    "res/emoticon/20/11.png": {
+      "md5": "f0fa807642aaf87d2afb55fd307b37f9"
+    }, 
+    "res/emoticon/20/12.png": {
+      "md5": "6ed67f0a1af61e0c670ced4ddbabb5ec"
+    }, 
+    "res/emoticon/20/13.png": {
+      "md5": "5c06e4da489fc99fb050b498f4b766af"
+    }, 
+    "res/emoticon/20/14.png": {
+      "md5": "91e5c3746df09652f9e512ff471bb46c"
+    }, 
+    "res/emoticon/20/15.png": {
+      "md5": "ecf5111fbdfa3c1fc8c365105aa35466"
+    }, 
+    "res/emoticon/20/16.png": {
+      "md5": "825be9ff5c6172a2c9509c9b042196b8"
+    }, 
+    "res/emoticon/20/17.png": {
+      "md5": "9a54b1012458c0dce6d7e4d315570313"
+    }, 
+    "res/emoticon/20/18.png": {
+      "md5": "2dc852565629943339a09a3548f16349"
+    }, 
+    "res/emoticon/20/19.png": {
+      "md5": "bc43c4e68569e7bc76f0e9901354ac9b"
+    }, 
+    "res/emoticon/20/2.png": {
+      "md5": "c04dc9eee8660d3645232eb34cca46ce"
+    }, 
+    "res/emoticon/20/20.png": {
+      "md5": "bc43c4e68569e7bc76f0e9901354ac9b"
+    }, 
+    "res/emoticon/20/3.png": {
+      "md5": "344eae1c80892761b6544cfc235f97e6"
+    }, 
+    "res/emoticon/20/4.png": {
+      "md5": "cd942183040ec3b8cd57f4976bc70e21"
+    }, 
+    "res/emoticon/20/5.png": {
+      "md5": "4fdc6c1f835cbf081338a29ef38a3ca1"
+    }, 
+    "res/emoticon/20/6.png": {
+      "md5": "3e2df61521d606bd51dfec2c8a3d5a69"
+    }, 
+    "res/emoticon/20/7.png": {
+      "md5": "7cca1d1debc480c1a712d216e08d05e5"
+    }, 
+    "res/emoticon/20/8.png": {
+      "md5": "d4b5d6d190dc820dfddc3e09a7c917f5"
+    }, 
+    "res/emoticon/20/9.png": {
+      "md5": "d41803c54f99eb888d0bfcfd26f72fd6"
+    }, 
+    "res/emoticon/20/icon.png": {
+      "md5": "613cfdb84b7027f9a436cc16c7c9ffdd"
+    }, 
+    "res/emoticon/21/1.png": {
+      "md5": "767ee2cd5b392b269ae8ec59cb08c37b"
+    }, 
+    "res/emoticon/21/10.png": {
+      "md5": "8aea693c9044a8d52ef21727cbf46ee5"
+    }, 
+    "res/emoticon/21/11.png": {
+      "md5": "68a21556ba5ee9ab6be4898e50d45ce7"
+    }, 
+    "res/emoticon/21/12.png": {
+      "md5": "d60e6995b115b140825a075c2307068c"
+    }, 
+    "res/emoticon/21/13.png": {
+      "md5": "4a3e271609892faef9d5191856c69645"
+    }, 
+    "res/emoticon/21/14.png": {
+      "md5": "2ba10d5a413ed3b49be536ec3a8339f3"
+    }, 
+    "res/emoticon/21/15.png": {
+      "md5": "2ba10d5a413ed3b49be536ec3a8339f3"
+    }, 
+    "res/emoticon/21/16.png": {
+      "md5": "2ba10d5a413ed3b49be536ec3a8339f3"
+    }, 
+    "res/emoticon/21/2.png": {
+      "md5": "767ee2cd5b392b269ae8ec59cb08c37b"
+    }, 
+    "res/emoticon/21/3.png": {
+      "md5": "767ee2cd5b392b269ae8ec59cb08c37b"
+    }, 
+    "res/emoticon/21/4.png": {
+      "md5": "767ee2cd5b392b269ae8ec59cb08c37b"
+    }, 
+    "res/emoticon/21/5.png": {
+      "md5": "767ee2cd5b392b269ae8ec59cb08c37b"
+    }, 
+    "res/emoticon/21/6.png": {
+      "md5": "93242223b3a9e9b8cf7be2912d5fbe49"
+    }, 
+    "res/emoticon/21/7.png": {
+      "md5": "9de2da13cf16b0c1cdfafe68a9a750ce"
+    }, 
+    "res/emoticon/21/8.png": {
+      "md5": "e6f7719b0bdc1df7064850e348c6dc1a"
+    }, 
+    "res/emoticon/21/9.png": {
+      "md5": "79e5af31161b25d5a3c3ee48e32abd12"
+    }, 
+    "res/emoticon/21/icon.png": {
+      "md5": "1da8a2167f3532575815218a355e1b26"
+    }, 
+    "res/emoticon/22/1.png": {
+      "md5": "131779aa887c7f662857e844092dd00a"
+    }, 
+    "res/emoticon/22/10.png": {
+      "md5": "c65aae95e46f88812d2114f3e20e5b75"
+    }, 
+    "res/emoticon/22/11.png": {
+      "md5": "afb83015cf9a0b4d7b4038328432ffcb"
+    }, 
+    "res/emoticon/22/12.png": {
+      "md5": "97a3dabd4e60907a2de0e2ffcab6540a"
+    }, 
+    "res/emoticon/22/13.png": {
+      "md5": "311a4f6fbd562cd4fee722ae39fe47e6"
+    }, 
+    "res/emoticon/22/14.png": {
+      "md5": "814fc3fa6a949f79a7f57fd23c64c984"
+    }, 
+    "res/emoticon/22/15.png": {
+      "md5": "b3d67c556f3b8eafdb77cce90577650e"
+    }, 
+    "res/emoticon/22/16.png": {
+      "md5": "78e686bdde6e15d24fa0f0c70abcba5d"
+    }, 
+    "res/emoticon/22/17.png": {
+      "md5": "4f5c3b6437b80e718dff7535b4c63705"
+    }, 
+    "res/emoticon/22/18.png": {
+      "md5": "38b7f2a293cd37d9f33399c714733474"
+    }, 
+    "res/emoticon/22/19.png": {
+      "md5": "5a4fe67962b0a7e5e3078344dbd750d2"
+    }, 
+    "res/emoticon/22/2.png": {
+      "md5": "2fe78461cc26fe4801eb0872f3283c65"
+    }, 
+    "res/emoticon/22/20.png": {
+      "md5": "7233f5ee974eedbd2d38496f2c385a63"
+    }, 
+    "res/emoticon/22/21.png": {
+      "md5": "3d60307129a30461030aec94af1b5180"
+    }, 
+    "res/emoticon/22/22.png": {
+      "md5": "1b4ba0ff2b3821ee14edcb894d9c9b21"
+    }, 
+    "res/emoticon/22/23.png": {
+      "md5": "6f5d3624ff249885e482e9898a1a350a"
+    }, 
+    "res/emoticon/22/24.png": {
+      "md5": "515b1e3eab407b28b476ce4ceaeeabd9"
+    }, 
+    "res/emoticon/22/3.png": {
+      "md5": "38d18427bb1df85c5b28d741c68a488f"
+    }, 
+    "res/emoticon/22/4.png": {
+      "md5": "a58b3dd5ceb958c99b97099f7147b3fe"
+    }, 
+    "res/emoticon/22/5.png": {
+      "md5": "daea78e9d275d1d067ee07490b95a6d1"
+    }, 
+    "res/emoticon/22/6.png": {
+      "md5": "05884d2d01332bad6febda0d98d94737"
+    }, 
+    "res/emoticon/22/7.png": {
+      "md5": "e5b71c871e6ccce0b1f8650f8985be39"
+    }, 
+    "res/emoticon/22/8.png": {
+      "md5": "11145dc0ab5efe0a9946756d3bb0e4a8"
+    }, 
+    "res/emoticon/22/9.png": {
+      "md5": "7f89b59d5d9879961ae5dab892a19761"
+    }, 
+    "res/emoticon/22/icon.png": {
+      "md5": "6ae1ce9d818e3769ff2493de7d3130b9"
+    }, 
+    "res/emoticon/23/1.png": {
+      "md5": "3c5f79973bc188bebd577b789af9f1be"
+    }, 
+    "res/emoticon/23/10.png": {
+      "md5": "bf9eae7dca9dbdbdb888d74c753c808a"
+    }, 
+    "res/emoticon/23/11.png": {
+      "md5": "d11c4d1bf5a6df3a87a73cf741b8b86d"
+    }, 
+    "res/emoticon/23/12.png": {
+      "md5": "d996ae3b351734e1b83604387b99b25e"
+    }, 
+    "res/emoticon/23/13.png": {
+      "md5": "4d0ce7990671e19d340502193e3f57cf"
+    }, 
+    "res/emoticon/23/14.png": {
+      "md5": "021a4444b1d96679c270875b3ba1b90d"
+    }, 
+    "res/emoticon/23/15.png": {
+      "md5": "0d8a96ca54994c5a1e20e332fd92b63a"
+    }, 
+    "res/emoticon/23/16.png": {
+      "md5": "bf26d3d0f9bf48061663515df02139c3"
+    }, 
+    "res/emoticon/23/17.png": {
+      "md5": "b18b717aa41fd961a2bdfbf15d77f164"
+    }, 
+    "res/emoticon/23/18.png": {
+      "md5": "d9d3e0fec405aab434bf246cd13b5896"
+    }, 
+    "res/emoticon/23/19.png": {
+      "md5": "2a4e464d60085b4e8600c2fbfe701718"
+    }, 
+    "res/emoticon/23/2.png": {
+      "md5": "5a5dd41d827181a87cff09263ae68c48"
+    }, 
+    "res/emoticon/23/20.png": {
+      "md5": "ca426e7f58c453131156b1e6a250fb06"
+    }, 
+    "res/emoticon/23/21.png": {
+      "md5": "f63609b5fe8b7568feeebb75e79852ea"
+    }, 
+    "res/emoticon/23/22.png": {
+      "md5": "ced3fe11dcb2dab67c1088d7ad77e9f7"
+    }, 
+    "res/emoticon/23/23.png": {
+      "md5": "5b86819179bc7a942f84545623e89fee"
+    }, 
+    "res/emoticon/23/24.png": {
+      "md5": "96bfea7145cf4e98b423da896c76a3f5"
+    }, 
+    "res/emoticon/23/25.png": {
+      "md5": "9da3fb0185b38b5f6a1a7b7c5fcc5707"
+    }, 
+    "res/emoticon/23/3.png": {
+      "md5": "5a5dd41d827181a87cff09263ae68c48"
+    }, 
+    "res/emoticon/23/4.png": {
+      "md5": "e756e541fb10e6cc7f65ff31df83e8ae"
+    }, 
+    "res/emoticon/23/5.png": {
+      "md5": "dff9b9cc4d97a1c503d839579f3a6ed9"
+    }, 
+    "res/emoticon/23/6.png": {
+      "md5": "3c916615a749fe3c51c9af9db798e2c5"
+    }, 
+    "res/emoticon/23/7.png": {
+      "md5": "790fb60d57af25eca14a388305d827e0"
+    }, 
+    "res/emoticon/23/8.png": {
+      "md5": "82def4f66f825879f5ef5cd909182afb"
+    }, 
+    "res/emoticon/23/9.png": {
+      "md5": "180315c6e8afeb634fc81df868613f94"
+    }, 
+    "res/emoticon/23/icon.png": {
+      "md5": "2eb6887bbedc2e8917217c5d23947b44"
+    }, 
+    "res/emoticon/24/1.png": {
+      "md5": "ea9a362674360f362ae0dbc73c4ab9d2"
+    }, 
+    "res/emoticon/24/10.png": {
+      "md5": "328085f734991c79cd0f30ef79f78362"
+    }, 
+    "res/emoticon/24/11.png": {
+      "md5": "0ccf80544b5c899d9a7e3262929cb36d"
+    }, 
+    "res/emoticon/24/12.png": {
+      "md5": "328085f734991c79cd0f30ef79f78362"
+    }, 
+    "res/emoticon/24/13.png": {
+      "md5": "0ccf80544b5c899d9a7e3262929cb36d"
+    }, 
+    "res/emoticon/24/14.png": {
+      "md5": "328085f734991c79cd0f30ef79f78362"
+    }, 
+    "res/emoticon/24/15.png": {
+      "md5": "0ccf80544b5c899d9a7e3262929cb36d"
+    }, 
+    "res/emoticon/24/16.png": {
+      "md5": "328085f734991c79cd0f30ef79f78362"
+    }, 
+    "res/emoticon/24/17.png": {
+      "md5": "0ccf80544b5c899d9a7e3262929cb36d"
+    }, 
+    "res/emoticon/24/18.png": {
+      "md5": "328085f734991c79cd0f30ef79f78362"
+    }, 
+    "res/emoticon/24/19.png": {
+      "md5": "0ccf80544b5c899d9a7e3262929cb36d"
+    }, 
+    "res/emoticon/24/2.png": {
+      "md5": "169d924de1ba18e35f4a0c91e5721c85"
+    }, 
+    "res/emoticon/24/20.png": {
+      "md5": "328085f734991c79cd0f30ef79f78362"
+    }, 
+    "res/emoticon/24/21.png": {
+      "md5": "0ccf80544b5c899d9a7e3262929cb36d"
+    }, 
+    "res/emoticon/24/22.png": {
+      "md5": "328085f734991c79cd0f30ef79f78362"
+    }, 
+    "res/emoticon/24/23.png": {
+      "md5": "0ccf80544b5c899d9a7e3262929cb36d"
+    }, 
+    "res/emoticon/24/24.png": {
+      "md5": "328085f734991c79cd0f30ef79f78362"
+    }, 
+    "res/emoticon/24/25.png": {
+      "md5": "328085f734991c79cd0f30ef79f78362"
+    }, 
+    "res/emoticon/24/26.png": {
+      "md5": "328085f734991c79cd0f30ef79f78362"
+    }, 
+    "res/emoticon/24/3.png": {
+      "md5": "34ab7eb65b39c4f379852106643fe784"
+    }, 
+    "res/emoticon/24/4.png": {
+      "md5": "328085f734991c79cd0f30ef79f78362"
+    }, 
+    "res/emoticon/24/5.png": {
+      "md5": "328085f734991c79cd0f30ef79f78362"
+    }, 
+    "res/emoticon/24/6.png": {
+      "md5": "328085f734991c79cd0f30ef79f78362"
+    }, 
+    "res/emoticon/24/7.png": {
+      "md5": "328085f734991c79cd0f30ef79f78362"
+    }, 
+    "res/emoticon/24/8.png": {
+      "md5": "328085f734991c79cd0f30ef79f78362"
+    }, 
+    "res/emoticon/24/9.png": {
+      "md5": "0ccf80544b5c899d9a7e3262929cb36d"
+    }, 
+    "res/emoticon/24/icon.png": {
+      "md5": "1ba2aae9040f66b0b14a655a7fc21e37"
+    }, 
+    "res/emoticon/25/1.png": {
+      "md5": "dd04c19b016fc82e57e0891715c47cd0"
+    }, 
+    "res/emoticon/25/10.png": {
+      "md5": "1c76763c643b73ec4c96911509286177"
+    }, 
+    "res/emoticon/25/11.png": {
+      "md5": "d93265a051b2c42bd9c5bb7b8e370795"
+    }, 
+    "res/emoticon/25/12.png": {
+      "md5": "ddd929c1605065720b4caed593904f49"
+    }, 
+    "res/emoticon/25/13.png": {
+      "md5": "6230ad9133d29cf3d05a0ffc7d380876"
+    }, 
+    "res/emoticon/25/14.png": {
+      "md5": "1aea56186c19828d758f7f7046de82b3"
+    }, 
+    "res/emoticon/25/15.png": {
+      "md5": "7cc523d91339c511942aac423af5728f"
+    }, 
+    "res/emoticon/25/16.png": {
+      "md5": "c522592929756b8ee4cac76e96bddf6d"
+    }, 
+    "res/emoticon/25/17.png": {
+      "md5": "1aea56186c19828d758f7f7046de82b3"
+    }, 
+    "res/emoticon/25/18.png": {
+      "md5": "1aea56186c19828d758f7f7046de82b3"
+    }, 
+    "res/emoticon/25/19.png": {
+      "md5": "7cc523d91339c511942aac423af5728f"
+    }, 
+    "res/emoticon/25/2.png": {
+      "md5": "66b287b4d0ddc357a25e354cdaf60dc5"
+    }, 
+    "res/emoticon/25/20.png": {
+      "md5": "85a64cc62ad16c5dc8e42bcb03800a67"
+    }, 
+    "res/emoticon/25/21.png": {
+      "md5": "1aea56186c19828d758f7f7046de82b3"
+    }, 
+    "res/emoticon/25/22.png": {
+      "md5": "07a97dbcc74d6145a70a08c11b83a3e3"
+    }, 
+    "res/emoticon/25/23.png": {
+      "md5": "07a97dbcc74d6145a70a08c11b83a3e3"
+    }, 
+    "res/emoticon/25/24.png": {
+      "md5": "07a97dbcc74d6145a70a08c11b83a3e3"
+    }, 
+    "res/emoticon/25/25.png": {
+      "md5": "07a97dbcc74d6145a70a08c11b83a3e3"
+    }, 
+    "res/emoticon/25/26.png": {
+      "md5": "07a97dbcc74d6145a70a08c11b83a3e3"
+    }, 
+    "res/emoticon/25/27.png": {
+      "md5": "0ddc986e461077304a7f4812fb49581c"
+    }, 
+    "res/emoticon/25/28.png": {
+      "md5": "ecb750496b3bb414976dc3985c33ddc0"
+    }, 
+    "res/emoticon/25/29.png": {
+      "md5": "ecb750496b3bb414976dc3985c33ddc0"
+    }, 
+    "res/emoticon/25/3.png": {
+      "md5": "8991c16d623dbee9f269dc455f0d8b93"
+    }, 
+    "res/emoticon/25/30.png": {
+      "md5": "ecb750496b3bb414976dc3985c33ddc0"
+    }, 
+    "res/emoticon/25/31.png": {
+      "md5": "ecb750496b3bb414976dc3985c33ddc0"
+    }, 
+    "res/emoticon/25/32.png": {
+      "md5": "ecb750496b3bb414976dc3985c33ddc0"
+    }, 
+    "res/emoticon/25/33.png": {
+      "md5": "ecb750496b3bb414976dc3985c33ddc0"
+    }, 
+    "res/emoticon/25/34.png": {
+      "md5": "ecb750496b3bb414976dc3985c33ddc0"
+    }, 
+    "res/emoticon/25/35.png": {
+      "md5": "ecb750496b3bb414976dc3985c33ddc0"
+    }, 
+    "res/emoticon/25/36.png": {
+      "md5": "ecb750496b3bb414976dc3985c33ddc0"
+    }, 
+    "res/emoticon/25/37.png": {
+      "md5": "ecb750496b3bb414976dc3985c33ddc0"
+    }, 
+    "res/emoticon/25/4.png": {
+      "md5": "dd04c19b016fc82e57e0891715c47cd0"
+    }, 
+    "res/emoticon/25/5.png": {
+      "md5": "dd04c19b016fc82e57e0891715c47cd0"
+    }, 
+    "res/emoticon/25/6.png": {
+      "md5": "66b287b4d0ddc357a25e354cdaf60dc5"
+    }, 
+    "res/emoticon/25/7.png": {
+      "md5": "ddce7cb27ef009bb1e768350772314aa"
+    }, 
+    "res/emoticon/25/8.png": {
+      "md5": "dd04c19b016fc82e57e0891715c47cd0"
+    }, 
+    "res/emoticon/25/9.png": {
+      "md5": "060d114b1bb016f770e797d4ea195b21"
+    }, 
+    "res/emoticon/25/icon.png": {
+      "md5": "63f68de51e54ab956cb2564edfb756ae"
+    }, 
+    "res/emoticon/26/1.png": {
+      "md5": "c8a27fd5c0f37db2d885337b566f265a"
+    }, 
+    "res/emoticon/26/10.png": {
+      "md5": "da8591b73a8aa6c4a9c3151e67161076"
+    }, 
+    "res/emoticon/26/11.png": {
+      "md5": "95aedd21f2d7088cc419730778970150"
+    }, 
+    "res/emoticon/26/12.png": {
+      "md5": "231b756bca50b698cf2b9376fb38f6cb"
+    }, 
+    "res/emoticon/26/13.png": {
+      "md5": "40cadb075c210598507b62c77d6d7a14"
+    }, 
+    "res/emoticon/26/14.png": {
+      "md5": "e1ab61569e8a93f2e9276f7e0d5b7012"
+    }, 
+    "res/emoticon/26/15.png": {
+      "md5": "a9716d0a00eed10a988537e9c9aba765"
+    }, 
+    "res/emoticon/26/16.png": {
+      "md5": "6e6b1dd5cb7b4234c5b8e28c709fa946"
+    }, 
+    "res/emoticon/26/17.png": {
+      "md5": "b72629a0e384042a298f076ebef89bab"
+    }, 
+    "res/emoticon/26/18.png": {
+      "md5": "20238bd5d6f229609c3b81da73161553"
+    }, 
+    "res/emoticon/26/2.png": {
+      "md5": "1a8639986b647d3873b166cfec901535"
+    }, 
+    "res/emoticon/26/3.png": {
+      "md5": "708a3c5bab6c55ab3535ce741fc8ad8f"
+    }, 
+    "res/emoticon/26/4.png": {
+      "md5": "6579c2feb1979b2e09bc81e239907060"
+    }, 
+    "res/emoticon/26/5.png": {
+      "md5": "5cb194f774c22ba2143c45b32298ae1c"
+    }, 
+    "res/emoticon/26/6.png": {
+      "md5": "cadc7d902e4a996745eeeb3428a71236"
+    }, 
+    "res/emoticon/26/7.png": {
+      "md5": "d8bed29d61388a402f0ae5163bca08d6"
+    }, 
+    "res/emoticon/26/8.png": {
+      "md5": "716d14da5ddabbebc732a919ba1e6436"
+    }, 
+    "res/emoticon/26/9.png": {
+      "md5": "3e321a4dcce78ac172b0610dce094e2a"
+    }, 
+    "res/emoticon/26/icon.png": {
+      "md5": "8cdb3a351605ee23994a082ee2dd8020"
+    }, 
+    "res/emoticon/27/1.png": {
+      "md5": "db49af6a27905caceae2956bf5bce0ba"
+    }, 
+    "res/emoticon/27/10.png": {
+      "md5": "db49af6a27905caceae2956bf5bce0ba"
+    }, 
+    "res/emoticon/27/11.png": {
+      "md5": "84da588602adfb77d76be259c0e83b34"
+    }, 
+    "res/emoticon/27/12.png": {
+      "md5": "b67a0e2f202708ad60d27287947b13ed"
+    }, 
+    "res/emoticon/27/13.png": {
+      "md5": "b67a0e2f202708ad60d27287947b13ed"
+    }, 
+    "res/emoticon/27/14.png": {
+      "md5": "b67a0e2f202708ad60d27287947b13ed"
+    }, 
+    "res/emoticon/27/15.png": {
+      "md5": "b67a0e2f202708ad60d27287947b13ed"
+    }, 
+    "res/emoticon/27/16.png": {
+      "md5": "efbed37ceaeb1f86c2b0d23e81c348dc"
+    }, 
+    "res/emoticon/27/17.png": {
+      "md5": "b23b919c2b631a949714c1fa371232f3"
+    }, 
+    "res/emoticon/27/18.png": {
+      "md5": "b23b919c2b631a949714c1fa371232f3"
+    }, 
+    "res/emoticon/27/19.png": {
+      "md5": "b23b919c2b631a949714c1fa371232f3"
+    }, 
+    "res/emoticon/27/2.png": {
+      "md5": "84da588602adfb77d76be259c0e83b34"
+    }, 
+    "res/emoticon/27/20.png": {
+      "md5": "b23b919c2b631a949714c1fa371232f3"
+    }, 
+    "res/emoticon/27/21.png": {
+      "md5": "b23b919c2b631a949714c1fa371232f3"
+    }, 
+    "res/emoticon/27/22.png": {
+      "md5": "b23b919c2b631a949714c1fa371232f3"
+    }, 
+    "res/emoticon/27/23.png": {
+      "md5": "b23b919c2b631a949714c1fa371232f3"
+    }, 
+    "res/emoticon/27/24.png": {
+      "md5": "b23b919c2b631a949714c1fa371232f3"
+    }, 
+    "res/emoticon/27/25.png": {
+      "md5": "b23b919c2b631a949714c1fa371232f3"
+    }, 
+    "res/emoticon/27/3.png": {
+      "md5": "b67a0e2f202708ad60d27287947b13ed"
+    }, 
+    "res/emoticon/27/4.png": {
+      "md5": "db49af6a27905caceae2956bf5bce0ba"
+    }, 
+    "res/emoticon/27/5.png": {
+      "md5": "84da588602adfb77d76be259c0e83b34"
+    }, 
+    "res/emoticon/27/6.png": {
+      "md5": "b67a0e2f202708ad60d27287947b13ed"
+    }, 
+    "res/emoticon/27/7.png": {
+      "md5": "db49af6a27905caceae2956bf5bce0ba"
+    }, 
+    "res/emoticon/27/8.png": {
+      "md5": "84da588602adfb77d76be259c0e83b34"
+    }, 
+    "res/emoticon/27/9.png": {
+      "md5": "b67a0e2f202708ad60d27287947b13ed"
+    }, 
+    "res/emoticon/27/icon.png": {
+      "md5": "8488f9e94c718831776d9189f4006619"
+    }, 
+    "res/emoticon/28/1.png": {
+      "md5": "6709fda6fb21604bf032bbe0bf5081ec"
+    }, 
+    "res/emoticon/28/10.png": {
+      "md5": "5c68dfc9b556d38f9adbc373fa93f068"
+    }, 
+    "res/emoticon/28/11.png": {
+      "md5": "5bff8c77a574cebbc671a4f6076605c6"
+    }, 
+    "res/emoticon/28/12.png": {
+      "md5": "b8a6d74ba285bb2f19f3561dfa477ac6"
+    }, 
+    "res/emoticon/28/13.png": {
+      "md5": "38c046b7bc2f6c2b440cb5b82a3e5292"
+    }, 
+    "res/emoticon/28/14.png": {
+      "md5": "d2cebf817c7d391e0a3f9b88a6037b35"
+    }, 
+    "res/emoticon/28/15.png": {
+      "md5": "fd416fbf8bbffaad7a0c2cb1896daa1d"
+    }, 
+    "res/emoticon/28/2.png": {
+      "md5": "b52bac8bee908ee4daa6b9da97a655ec"
+    }, 
+    "res/emoticon/28/3.png": {
+      "md5": "5ecbcc3a7f440fbf39b25639423f8cae"
+    }, 
+    "res/emoticon/28/4.png": {
+      "md5": "ff1992f0483e99482fa8b1536193cef4"
+    }, 
+    "res/emoticon/28/5.png": {
+      "md5": "8cf8244a488d88588b37e1f88a4faa59"
+    }, 
+    "res/emoticon/28/6.png": {
+      "md5": "2185f8fe1886c4634ba78b7e4e261d7f"
+    }, 
+    "res/emoticon/28/7.png": {
+      "md5": "70c62c9bbf1804fed1c03f7f7e3d9e0a"
+    }, 
+    "res/emoticon/28/8.png": {
+      "md5": "6dcb992ae5a3698ea3eaf761db4475fb"
+    }, 
+    "res/emoticon/28/9.png": {
+      "md5": "0d084374c9f93ac64eec3e31d68e3ad3"
+    }, 
+    "res/emoticon/28/icon.png": {
+      "md5": "c7db75b6c41e204c2db8b75f420cc743"
+    }, 
+    "res/emoticon/29/1.png": {
+      "md5": "b97d5691a53b53f25dd96bad15848f0c"
+    }, 
+    "res/emoticon/29/10.png": {
+      "md5": "23c12867076b5b2798ef474dc7ff50de"
+    }, 
+    "res/emoticon/29/11.png": {
+      "md5": "afa08cf16500fc0cf2abde58a94b4f1e"
+    }, 
+    "res/emoticon/29/12.png": {
+      "md5": "1b866de94d3afd2dc68848d2370a282c"
+    }, 
+    "res/emoticon/29/13.png": {
+      "md5": "3fe40e350e82d6e04980976ca308a532"
+    }, 
+    "res/emoticon/29/14.png": {
+      "md5": "53c0f7ff6b17757a09ab75c406273d5c"
+    }, 
+    "res/emoticon/29/15.png": {
+      "md5": "ca4fc31dab5ee148f2828088cd3fdf8e"
+    }, 
+    "res/emoticon/29/16.png": {
+      "md5": "a65d6a738811eeab97f6bde48219a6a9"
+    }, 
+    "res/emoticon/29/17.png": {
+      "md5": "58c414c8f9d9ea1039a50d9dd74e76b3"
+    }, 
+    "res/emoticon/29/18.png": {
+      "md5": "45f820e6b81d5d482b845f7377fdec83"
+    }, 
+    "res/emoticon/29/19.png": {
+      "md5": "7feb30c3378975fdeb680347071cb4ef"
+    }, 
+    "res/emoticon/29/2.png": {
+      "md5": "cabb502935ce908da12d3b0781f33527"
+    }, 
+    "res/emoticon/29/20.png": {
+      "md5": "3825ebc8b9c9e0eee715383202a30705"
+    }, 
+    "res/emoticon/29/21.png": {
+      "md5": "6827f2976c32143f0877564394335177"
+    }, 
+    "res/emoticon/29/22.png": {
+      "md5": "78cf81d8b5ee50fff8cf3f8d9b64df20"
+    }, 
+    "res/emoticon/29/23.png": {
+      "md5": "93419f677f210ee614ea2952a74e7c00"
+    }, 
+    "res/emoticon/29/24.png": {
+      "md5": "05e050be65282f08025cfa79c56be5f2"
+    }, 
+    "res/emoticon/29/25.png": {
+      "md5": "b02910d7187ee9b6507701964af123f1"
+    }, 
+    "res/emoticon/29/26.png": {
+      "md5": "e6484dde91c5723c98eb8a23b32f44f7"
+    }, 
+    "res/emoticon/29/27.png": {
+      "md5": "1cf79320446f95e85b85db5e5f0eb96d"
+    }, 
+    "res/emoticon/29/28.png": {
+      "md5": "703d896ee69ac955156fc8dbff590e82"
+    }, 
+    "res/emoticon/29/29.png": {
+      "md5": "8e33ec0957edd52bd1cef29ef15d1c7d"
+    }, 
+    "res/emoticon/29/3.png": {
+      "md5": "8bedfb3c73face2bf5cd50dd30a2a947"
+    }, 
+    "res/emoticon/29/30.png": {
+      "md5": "d365af6234a00893d01fa43135e9c063"
+    }, 
+    "res/emoticon/29/4.png": {
+      "md5": "332aedf389ca7b42d5626697a0cad470"
+    }, 
+    "res/emoticon/29/5.png": {
+      "md5": "b2bfd771caf5919fbf4cfb8809aedaa7"
+    }, 
+    "res/emoticon/29/6.png": {
+      "md5": "52acc7c42371c814d75ef01bb7202440"
+    }, 
+    "res/emoticon/29/7.png": {
+      "md5": "213ee62980f936f601c0ab951f7b9132"
+    }, 
+    "res/emoticon/29/8.png": {
+      "md5": "bb4512c12bd0e5e9709d92147257cbe5"
+    }, 
+    "res/emoticon/29/9.png": {
+      "md5": "739077b0e4151f4761fe9009eb2b05fc"
+    }, 
+    "res/emoticon/29/icon.png": {
+      "md5": "c73e749093d4ae2454f2ed1c0d216da8"
+    }, 
+    "res/emoticon/3/1.png": {
+      "md5": "034c9b86ca9f264c84a5d062a4ef47c5"
+    }, 
+    "res/emoticon/3/10.png": {
+      "md5": "5c58c57f77ef8e5c9b4472576b003447"
+    }, 
+    "res/emoticon/3/11.png": {
+      "md5": "5c58c57f77ef8e5c9b4472576b003447"
+    }, 
+    "res/emoticon/3/12.png": {
+      "md5": "5c58c57f77ef8e5c9b4472576b003447"
+    }, 
+    "res/emoticon/3/13.png": {
+      "md5": "5c58c57f77ef8e5c9b4472576b003447"
+    }, 
+    "res/emoticon/3/14.png": {
+      "md5": "c9a0bb6f7028ea5313623a2e76b77c82"
+    }, 
+    "res/emoticon/3/15.png": {
+      "md5": "c9a0bb6f7028ea5313623a2e76b77c82"
+    }, 
+    "res/emoticon/3/16.png": {
+      "md5": "afabc1282932ce574422e70b6ec7b5ca"
+    }, 
+    "res/emoticon/3/17.png": {
+      "md5": "afabc1282932ce574422e70b6ec7b5ca"
+    }, 
+    "res/emoticon/3/18.png": {
+      "md5": "c9a0bb6f7028ea5313623a2e76b77c82"
+    }, 
+    "res/emoticon/3/19.png": {
+      "md5": "c9a0bb6f7028ea5313623a2e76b77c82"
+    }, 
+    "res/emoticon/3/2.png": {
+      "md5": "034c9b86ca9f264c84a5d062a4ef47c5"
+    }, 
+    "res/emoticon/3/20.png": {
+      "md5": "afabc1282932ce574422e70b6ec7b5ca"
+    }, 
+    "res/emoticon/3/21.png": {
+      "md5": "afabc1282932ce574422e70b6ec7b5ca"
+    }, 
+    "res/emoticon/3/22.png": {
+      "md5": "c9a0bb6f7028ea5313623a2e76b77c82"
+    }, 
+    "res/emoticon/3/23.png": {
+      "md5": "c9a0bb6f7028ea5313623a2e76b77c82"
+    }, 
+    "res/emoticon/3/24.png": {
+      "md5": "afabc1282932ce574422e70b6ec7b5ca"
+    }, 
+    "res/emoticon/3/25.png": {
+      "md5": "afabc1282932ce574422e70b6ec7b5ca"
+    }, 
+    "res/emoticon/3/26.png": {
+      "md5": "c9a0bb6f7028ea5313623a2e76b77c82"
+    }, 
+    "res/emoticon/3/27.png": {
+      "md5": "c9a0bb6f7028ea5313623a2e76b77c82"
+    }, 
+    "res/emoticon/3/28.png": {
+      "md5": "afabc1282932ce574422e70b6ec7b5ca"
+    }, 
+    "res/emoticon/3/29.png": {
+      "md5": "afabc1282932ce574422e70b6ec7b5ca"
+    }, 
+    "res/emoticon/3/3.png": {
+      "md5": "034c9b86ca9f264c84a5d062a4ef47c5"
+    }, 
+    "res/emoticon/3/30.png": {
+      "md5": "c9a0bb6f7028ea5313623a2e76b77c82"
+    }, 
+    "res/emoticon/3/31.png": {
+      "md5": "c9a0bb6f7028ea5313623a2e76b77c82"
+    }, 
+    "res/emoticon/3/32.png": {
+      "md5": "afabc1282932ce574422e70b6ec7b5ca"
+    }, 
+    "res/emoticon/3/33.png": {
+      "md5": "afabc1282932ce574422e70b6ec7b5ca"
+    }, 
+    "res/emoticon/3/34.png": {
+      "md5": "c9a0bb6f7028ea5313623a2e76b77c82"
+    }, 
+    "res/emoticon/3/35.png": {
+      "md5": "c9a0bb6f7028ea5313623a2e76b77c82"
+    }, 
+    "res/emoticon/3/4.png": {
+      "md5": "034c9b86ca9f264c84a5d062a4ef47c5"
+    }, 
+    "res/emoticon/3/5.png": {
+      "md5": "034c9b86ca9f264c84a5d062a4ef47c5"
+    }, 
+    "res/emoticon/3/6.png": {
+      "md5": "034c9b86ca9f264c84a5d062a4ef47c5"
+    }, 
+    "res/emoticon/3/7.png": {
+      "md5": "309b6a42c3175f0dd225047ba89e8a5c"
+    }, 
+    "res/emoticon/3/8.png": {
+      "md5": "5c58c57f77ef8e5c9b4472576b003447"
+    }, 
+    "res/emoticon/3/9.png": {
+      "md5": "5c58c57f77ef8e5c9b4472576b003447"
+    }, 
+    "res/emoticon/3/icon.png": {
+      "md5": "ebd199e4391e0b6827fd0d1077cae12d"
+    }, 
+    "res/emoticon/30/1.png": {
+      "md5": "0bd509357cea62579cb81c2941801cd0"
+    }, 
+    "res/emoticon/30/10.png": {
+      "md5": "81c743a32329c0845c601c652e2ace6b"
+    }, 
+    "res/emoticon/30/11.png": {
+      "md5": "81c743a32329c0845c601c652e2ace6b"
+    }, 
+    "res/emoticon/30/12.png": {
+      "md5": "81c743a32329c0845c601c652e2ace6b"
+    }, 
+    "res/emoticon/30/13.png": {
+      "md5": "81c743a32329c0845c601c652e2ace6b"
+    }, 
+    "res/emoticon/30/14.png": {
+      "md5": "81c743a32329c0845c601c652e2ace6b"
+    }, 
+    "res/emoticon/30/15.png": {
+      "md5": "81c743a32329c0845c601c652e2ace6b"
+    }, 
+    "res/emoticon/30/16.png": {
+      "md5": "81c743a32329c0845c601c652e2ace6b"
+    }, 
+    "res/emoticon/30/17.png": {
+      "md5": "81c743a32329c0845c601c652e2ace6b"
+    }, 
+    "res/emoticon/30/18.png": {
+      "md5": "81c743a32329c0845c601c652e2ace6b"
+    }, 
+    "res/emoticon/30/19.png": {
+      "md5": "81c743a32329c0845c601c652e2ace6b"
+    }, 
+    "res/emoticon/30/2.png": {
+      "md5": "a5de1d092cd6c943e1518120ec13b997"
+    }, 
+    "res/emoticon/30/20.png": {
+      "md5": "81c743a32329c0845c601c652e2ace6b"
+    }, 
+    "res/emoticon/30/21.png": {
+      "md5": "df9c3cb42759e4e990545b6c7d116cbf"
+    }, 
+    "res/emoticon/30/22.png": {
+      "md5": "83f6eba06cfd8a25c795dffef119e1dc"
+    }, 
+    "res/emoticon/30/23.png": {
+      "md5": "afd03d2341b9730c252d4dac8f4de5c3"
+    }, 
+    "res/emoticon/30/24.png": {
+      "md5": "0a6c7c312e8ca032ed606bdef136c979"
+    }, 
+    "res/emoticon/30/25.png": {
+      "md5": "0a6c7c312e8ca032ed606bdef136c979"
+    }, 
+    "res/emoticon/30/26.png": {
+      "md5": "0a6c7c312e8ca032ed606bdef136c979"
+    }, 
+    "res/emoticon/30/27.png": {
+      "md5": "0a6c7c312e8ca032ed606bdef136c979"
+    }, 
+    "res/emoticon/30/28.png": {
+      "md5": "0a6c7c312e8ca032ed606bdef136c979"
+    }, 
+    "res/emoticon/30/3.png": {
+      "md5": "23d2f3909d6d1dc0de23e2cfbfedfcb6"
+    }, 
+    "res/emoticon/30/4.png": {
+      "md5": "282c989f27b333eb5d0249e61f3531ed"
+    }, 
+    "res/emoticon/30/5.png": {
+      "md5": "282c989f27b333eb5d0249e61f3531ed"
+    }, 
+    "res/emoticon/30/6.png": {
+      "md5": "81c743a32329c0845c601c652e2ace6b"
+    }, 
+    "res/emoticon/30/7.png": {
+      "md5": "81c743a32329c0845c601c652e2ace6b"
+    }, 
+    "res/emoticon/30/8.png": {
+      "md5": "81c743a32329c0845c601c652e2ace6b"
+    }, 
+    "res/emoticon/30/9.png": {
+      "md5": "81c743a32329c0845c601c652e2ace6b"
+    }, 
+    "res/emoticon/30/icon.png": {
+      "md5": "314fd0f562d71f1b602a61e9811ad001"
+    }, 
+    "res/emoticon/31/1.png": {
+      "md5": "369e06a0e5cae60f049c3d8f5c157452"
+    }, 
+    "res/emoticon/31/10.png": {
+      "md5": "f71df48365649ab69d2abdd00cf2205d"
+    }, 
+    "res/emoticon/31/11.png": {
+      "md5": "2c321a2110f80507e0b17f198ff11dd2"
+    }, 
+    "res/emoticon/31/12.png": {
+      "md5": "c1dbcb0e54de421b79d078ea69f8e167"
+    }, 
+    "res/emoticon/31/13.png": {
+      "md5": "d03fbec693069d30599e9d4b83f4f410"
+    }, 
+    "res/emoticon/31/14.png": {
+      "md5": "61c8584f789eb48434ef7d6f0ac202a8"
+    }, 
+    "res/emoticon/31/15.png": {
+      "md5": "2731cfd5bee2943facb711a7b76d1613"
+    }, 
+    "res/emoticon/31/16.png": {
+      "md5": "68630c3b47c91bf803e0cd292e88fb61"
+    }, 
+    "res/emoticon/31/17.png": {
+      "md5": "86d5a57f1cebe8f8a91789d6cb1c8c82"
+    }, 
+    "res/emoticon/31/18.png": {
+      "md5": "b1975656482a638c7cd6e06747e3b804"
+    }, 
+    "res/emoticon/31/19.png": {
+      "md5": "c2990283c21002feaccac514f9c49b4c"
+    }, 
+    "res/emoticon/31/2.png": {
+      "md5": "43361b7c6f0006bfc3afd355f72d95d0"
+    }, 
+    "res/emoticon/31/20.png": {
+      "md5": "0106b2121ef0c41ed86429c02b7849bc"
+    }, 
+    "res/emoticon/31/21.png": {
+      "md5": "0106b2121ef0c41ed86429c02b7849bc"
+    }, 
+    "res/emoticon/31/22.png": {
+      "md5": "0106b2121ef0c41ed86429c02b7849bc"
+    }, 
+    "res/emoticon/31/3.png": {
+      "md5": "7045fd3ccc760ff507d924540f9043ba"
+    }, 
+    "res/emoticon/31/4.png": {
+      "md5": "c93c152332f0d2062d8dba05d22932c6"
+    }, 
+    "res/emoticon/31/5.png": {
+      "md5": "6c24f69c7a3c46af7950c14dd6a1af70"
+    }, 
+    "res/emoticon/31/6.png": {
+      "md5": "dcd9aedbdb5ba0e344fee5bddaf0dd69"
+    }, 
+    "res/emoticon/31/7.png": {
+      "md5": "05d4c575d5418d480a55f6154bd3544c"
+    }, 
+    "res/emoticon/31/8.png": {
+      "md5": "f71df48365649ab69d2abdd00cf2205d"
+    }, 
+    "res/emoticon/31/9.png": {
+      "md5": "f71df48365649ab69d2abdd00cf2205d"
+    }, 
+    "res/emoticon/31/icon.png": {
+      "md5": "61a50a585b6c4b246af4071b6ba6c3d1"
+    }, 
+    "res/emoticon/32/1.png": {
+      "md5": "421648d3bd6e6df1d3c4c5a7e362b008"
+    }, 
+    "res/emoticon/32/2.png": {
+      "md5": "3648d14890783da0fd7ae107415a45bd"
+    }, 
+    "res/emoticon/32/3.png": {
+      "md5": "c8762449940cda21af1cb7d4b5e6157f"
+    }, 
+    "res/emoticon/32/4.png": {
+      "md5": "a1fac9dd4e8d1df9155faa060c0946fe"
+    }, 
+    "res/emoticon/32/5.png": {
+      "md5": "3648d14890783da0fd7ae107415a45bd"
+    }, 
+    "res/emoticon/32/6.png": {
+      "md5": "421648d3bd6e6df1d3c4c5a7e362b008"
+    }, 
+    "res/emoticon/32/icon.png": {
+      "md5": "11d8d6ea38b79ef6cc79157685c1f659"
+    }, 
+    "res/emoticon/4/1.png": {
+      "md5": "2baf7ec74b1272d6ceb50c3ad4b35ede"
+    }, 
+    "res/emoticon/4/10.png": {
+      "md5": "ea5954c79cb1941dea914acf6d6e6cc9"
+    }, 
+    "res/emoticon/4/11.png": {
+      "md5": "d14d9cd5db5e778e308c214c2d2a3f49"
+    }, 
+    "res/emoticon/4/12.png": {
+      "md5": "0213962e595334f0784572c17ac21303"
+    }, 
+    "res/emoticon/4/13.png": {
+      "md5": "0213962e595334f0784572c17ac21303"
+    }, 
+    "res/emoticon/4/14.png": {
+      "md5": "0f42f0a98fe89173dca0406db6d251f5"
+    }, 
+    "res/emoticon/4/15.png": {
+      "md5": "0f42f0a98fe89173dca0406db6d251f5"
+    }, 
+    "res/emoticon/4/2.png": {
+      "md5": "f914d9f1586bdccc166f3d613bb17896"
+    }, 
+    "res/emoticon/4/3.png": {
+      "md5": "e2c3b7c1c654550c0109554a068b24fd"
+    }, 
+    "res/emoticon/4/4.png": {
+      "md5": "0bcb3d3caee810900720aebe4b671f29"
+    }, 
+    "res/emoticon/4/5.png": {
+      "md5": "9e13f15abbff3c1455736f1b08cf2b93"
+    }, 
+    "res/emoticon/4/6.png": {
+      "md5": "ea5954c79cb1941dea914acf6d6e6cc9"
+    }, 
+    "res/emoticon/4/7.png": {
+      "md5": "4cfcf53080571b747a1d9c296952d086"
+    }, 
+    "res/emoticon/4/8.png": {
+      "md5": "b0b7abdb3266e31e275afb4b65c94e29"
+    }, 
+    "res/emoticon/4/9.png": {
+      "md5": "6a85c6cbd30378d015ceca01e7440c18"
+    }, 
+    "res/emoticon/4/icon.png": {
+      "md5": "5aab882acda5f2e159a274d242f320a9"
+    }, 
+    "res/emoticon/5/1.png": {
+      "md5": "73597b3016b4cf72e9dfd9283e1c1d0b"
+    }, 
+    "res/emoticon/5/10.png": {
+      "md5": "e1b4d29e2fe3871c72a284ded84cc354"
+    }, 
+    "res/emoticon/5/11.png": {
+      "md5": "30afab2b73c30fce9eccf65a3ebd4f0f"
+    }, 
+    "res/emoticon/5/12.png": {
+      "md5": "18461fb5a531400ed5629264dc7f63f9"
+    }, 
+    "res/emoticon/5/13.png": {
+      "md5": "2a73b8efe68913d2825b69c9761e42b2"
+    }, 
+    "res/emoticon/5/14.png": {
+      "md5": "2a73b8efe68913d2825b69c9761e42b2"
+    }, 
+    "res/emoticon/5/15.png": {
+      "md5": "8d63501239ce035f7207588618086c27"
+    }, 
+    "res/emoticon/5/16.png": {
+      "md5": "e1b4d29e2fe3871c72a284ded84cc354"
+    }, 
+    "res/emoticon/5/17.png": {
+      "md5": "4d2543f5cc3b349aacd2cbf3ad194592"
+    }, 
+    "res/emoticon/5/18.png": {
+      "md5": "73597b3016b4cf72e9dfd9283e1c1d0b"
+    }, 
+    "res/emoticon/5/19.png": {
+      "md5": "73597b3016b4cf72e9dfd9283e1c1d0b"
+    }, 
+    "res/emoticon/5/2.png": {
+      "md5": "73597b3016b4cf72e9dfd9283e1c1d0b"
+    }, 
+    "res/emoticon/5/20.png": {
+      "md5": "53d75cb5fd9a751aba32ea302a25580f"
+    }, 
+    "res/emoticon/5/21.png": {
+      "md5": "73597b3016b4cf72e9dfd9283e1c1d0b"
+    }, 
+    "res/emoticon/5/22.png": {
+      "md5": "53d75cb5fd9a751aba32ea302a25580f"
+    }, 
+    "res/emoticon/5/23.png": {
+      "md5": "73597b3016b4cf72e9dfd9283e1c1d0b"
+    }, 
+    "res/emoticon/5/24.png": {
+      "md5": "53d75cb5fd9a751aba32ea302a25580f"
+    }, 
+    "res/emoticon/5/25.png": {
+      "md5": "bc6737f2ab28414878701f04cd44cfe6"
+    }, 
+    "res/emoticon/5/26.png": {
+      "md5": "6c6b4e1d7d545c2cb6259ad3a284b06f"
+    }, 
+    "res/emoticon/5/27.png": {
+      "md5": "d8f6b24e3681e7eae38978db29741b32"
+    }, 
+    "res/emoticon/5/28.png": {
+      "md5": "bc6737f2ab28414878701f04cd44cfe6"
+    }, 
+    "res/emoticon/5/29.png": {
+      "md5": "bc6737f2ab28414878701f04cd44cfe6"
+    }, 
+    "res/emoticon/5/3.png": {
+      "md5": "03d0d31104f553186511ac1c02d28b3d"
+    }, 
+    "res/emoticon/5/30.png": {
+      "md5": "6c6b4e1d7d545c2cb6259ad3a284b06f"
+    }, 
+    "res/emoticon/5/31.png": {
+      "md5": "d8f6b24e3681e7eae38978db29741b32"
+    }, 
+    "res/emoticon/5/32.png": {
+      "md5": "d8f6b24e3681e7eae38978db29741b32"
+    }, 
+    "res/emoticon/5/33.png": {
+      "md5": "bc6737f2ab28414878701f04cd44cfe6"
+    }, 
+    "res/emoticon/5/34.png": {
+      "md5": "bc6737f2ab28414878701f04cd44cfe6"
+    }, 
+    "res/emoticon/5/35.png": {
+      "md5": "6c6b4e1d7d545c2cb6259ad3a284b06f"
+    }, 
+    "res/emoticon/5/36.png": {
+      "md5": "d8f6b24e3681e7eae38978db29741b32"
+    }, 
+    "res/emoticon/5/37.png": {
+      "md5": "d8f6b24e3681e7eae38978db29741b32"
+    }, 
+    "res/emoticon/5/38.png": {
+      "md5": "d8f6b24e3681e7eae38978db29741b32"
+    }, 
+    "res/emoticon/5/39.png": {
+      "md5": "d8f6b24e3681e7eae38978db29741b32"
+    }, 
+    "res/emoticon/5/4.png": {
+      "md5": "03d0d31104f553186511ac1c02d28b3d"
+    }, 
+    "res/emoticon/5/40.png": {
+      "md5": "d8f6b24e3681e7eae38978db29741b32"
+    }, 
+    "res/emoticon/5/5.png": {
+      "md5": "04e0afb2992bfc9da108b425de086677"
+    }, 
+    "res/emoticon/5/6.png": {
+      "md5": "04e0afb2992bfc9da108b425de086677"
+    }, 
+    "res/emoticon/5/7.png": {
+      "md5": "2a73b8efe68913d2825b69c9761e42b2"
+    }, 
+    "res/emoticon/5/8.png": {
+      "md5": "2a73b8efe68913d2825b69c9761e42b2"
+    }, 
+    "res/emoticon/5/9.png": {
+      "md5": "8d63501239ce035f7207588618086c27"
+    }, 
+    "res/emoticon/5/icon.png": {
+      "md5": "a8db1e2bfb0e59385f037f0d0d427eea"
+    }, 
+    "res/emoticon/6/1.png": {
+      "md5": "ce6f75c56b4883cb45f0ce790693d8f0"
+    }, 
+    "res/emoticon/6/10.png": {
+      "md5": "6fec0f11041229653a1a335da9e9a461"
+    }, 
+    "res/emoticon/6/11.png": {
+      "md5": "17ee6161b071b6aa80f0c145c91c3d73"
+    }, 
+    "res/emoticon/6/12.png": {
+      "md5": "ecbe87992c1f0f27aed44a7822e79f96"
+    }, 
+    "res/emoticon/6/13.png": {
+      "md5": "ce6f75c56b4883cb45f0ce790693d8f0"
+    }, 
+    "res/emoticon/6/14.png": {
+      "md5": "6fec0f11041229653a1a335da9e9a461"
+    }, 
+    "res/emoticon/6/15.png": {
+      "md5": "17ee6161b071b6aa80f0c145c91c3d73"
+    }, 
+    "res/emoticon/6/16.png": {
+      "md5": "ecbe87992c1f0f27aed44a7822e79f96"
+    }, 
+    "res/emoticon/6/17.png": {
+      "md5": "ce6f75c56b4883cb45f0ce790693d8f0"
+    }, 
+    "res/emoticon/6/18.png": {
+      "md5": "6fec0f11041229653a1a335da9e9a461"
+    }, 
+    "res/emoticon/6/19.png": {
+      "md5": "d0f90c835f53a1600b5ae9d2f108f739"
+    }, 
+    "res/emoticon/6/2.png": {
+      "md5": "6fec0f11041229653a1a335da9e9a461"
+    }, 
+    "res/emoticon/6/20.png": {
+      "md5": "8fa54a56e99763212c6672977abcc55e"
+    }, 
+    "res/emoticon/6/21.png": {
+      "md5": "09308e865362b5ed664047cdb9db6997"
+    }, 
+    "res/emoticon/6/22.png": {
+      "md5": "0f3459512eb3da91d1fcaaca17e0846d"
+    }, 
+    "res/emoticon/6/23.png": {
+      "md5": "6b7953844ba7a09ad3f9d63e56cd96df"
+    }, 
+    "res/emoticon/6/24.png": {
+      "md5": "533b319f5d85b34fef02e66ebc79d667"
+    }, 
+    "res/emoticon/6/25.png": {
+      "md5": "5460acc7c20e46c26836923405a6190e"
+    }, 
+    "res/emoticon/6/26.png": {
+      "md5": "7cec0d43ff5caf0ecc54417b17dff96b"
+    }, 
+    "res/emoticon/6/27.png": {
+      "md5": "6bcd6e26b71672d6eb0735891049944b"
+    }, 
+    "res/emoticon/6/28.png": {
+      "md5": "e21575740fc9381a1ded95f03f5ff4c9"
+    }, 
+    "res/emoticon/6/29.png": {
+      "md5": "73024e40dda35068f47848a148373896"
+    }, 
+    "res/emoticon/6/3.png": {
+      "md5": "17ee6161b071b6aa80f0c145c91c3d73"
+    }, 
+    "res/emoticon/6/30.png": {
+      "md5": "188baa92229f1fcf235bdb8d14066f72"
+    }, 
+    "res/emoticon/6/31.png": {
+      "md5": "3bd4cc40c3b2de467306e3bb7547d221"
+    }, 
+    "res/emoticon/6/32.png": {
+      "md5": "3bd4cc40c3b2de467306e3bb7547d221"
+    }, 
+    "res/emoticon/6/33.png": {
+      "md5": "3bd4cc40c3b2de467306e3bb7547d221"
+    }, 
+    "res/emoticon/6/34.png": {
+      "md5": "3bd4cc40c3b2de467306e3bb7547d221"
+    }, 
+    "res/emoticon/6/35.png": {
+      "md5": "3bd4cc40c3b2de467306e3bb7547d221"
+    }, 
+    "res/emoticon/6/4.png": {
+      "md5": "ecbe87992c1f0f27aed44a7822e79f96"
+    }, 
+    "res/emoticon/6/5.png": {
+      "md5": "ce6f75c56b4883cb45f0ce790693d8f0"
+    }, 
+    "res/emoticon/6/6.png": {
+      "md5": "1b1531d2b39e7905179a0d32a3ce87aa"
+    }, 
+    "res/emoticon/6/7.png": {
+      "md5": "6b5a25db3fdf510c2108480c0f0fd3ca"
+    }, 
+    "res/emoticon/6/8.png": {
+      "md5": "ecbe87992c1f0f27aed44a7822e79f96"
+    }, 
+    "res/emoticon/6/9.png": {
+      "md5": "ce6f75c56b4883cb45f0ce790693d8f0"
+    }, 
+    "res/emoticon/6/icon.png": {
+      "md5": "2fa9482026838c829cb34266aaafdfeb"
+    }, 
+    "res/emoticon/7/1.png": {
+      "md5": "7b94db42c0de8072a755d9bb327d5fda"
+    }, 
+    "res/emoticon/7/10.png": {
+      "md5": "b9a0b8b8a4b6a761b3154b91f710ed57"
+    }, 
+    "res/emoticon/7/11.png": {
+      "md5": "b9a0b8b8a4b6a761b3154b91f710ed57"
+    }, 
+    "res/emoticon/7/12.png": {
+      "md5": "b9a0b8b8a4b6a761b3154b91f710ed57"
+    }, 
+    "res/emoticon/7/13.png": {
+      "md5": "b9a0b8b8a4b6a761b3154b91f710ed57"
+    }, 
+    "res/emoticon/7/14.png": {
+      "md5": "b9a0b8b8a4b6a761b3154b91f710ed57"
+    }, 
+    "res/emoticon/7/15.png": {
+      "md5": "b9a0b8b8a4b6a761b3154b91f710ed57"
+    }, 
+    "res/emoticon/7/2.png": {
+      "md5": "7b94db42c0de8072a755d9bb327d5fda"
+    }, 
+    "res/emoticon/7/3.png": {
+      "md5": "b9a0b8b8a4b6a761b3154b91f710ed57"
+    }, 
+    "res/emoticon/7/4.png": {
+      "md5": "7b94db42c0de8072a755d9bb327d5fda"
+    }, 
+    "res/emoticon/7/5.png": {
+      "md5": "7b94db42c0de8072a755d9bb327d5fda"
+    }, 
+    "res/emoticon/7/6.png": {
+      "md5": "b9a0b8b8a4b6a761b3154b91f710ed57"
+    }, 
+    "res/emoticon/7/7.png": {
+      "md5": "7b94db42c0de8072a755d9bb327d5fda"
+    }, 
+    "res/emoticon/7/8.png": {
+      "md5": "7b94db42c0de8072a755d9bb327d5fda"
+    }, 
+    "res/emoticon/7/9.png": {
+      "md5": "b9a0b8b8a4b6a761b3154b91f710ed57"
+    }, 
+    "res/emoticon/7/icon.png": {
+      "md5": "9c5aa935c3965eac6ba76c83e6cd7efc"
+    }, 
+    "res/emoticon/8/1.png": {
+      "md5": "afac152332e73d8ce46f9618699a17f0"
+    }, 
+    "res/emoticon/8/2.png": {
+      "md5": "50441d320c1305f6e7238c56466c3c11"
+    }, 
+    "res/emoticon/8/3.png": {
+      "md5": "970a37e79b4ff932e9062cdc357288f6"
+    }, 
+    "res/emoticon/8/icon.png": {
+      "md5": "9d2627893120cef42350133b79cd5d3c"
+    }, 
+    "res/emoticon/9/1.png": {
+      "md5": "35ad72bd910d6052a1ec836623cebb5d"
+    }, 
+    "res/emoticon/9/10.png": {
+      "md5": "84e847156ac7880be463d9129368ec43"
+    }, 
+    "res/emoticon/9/11.png": {
+      "md5": "2455c9af7eead4ef4fd2a54255bbb739"
+    }, 
+    "res/emoticon/9/12.png": {
+      "md5": "732bc5b813dedcf485c757266d7d0d91"
+    }, 
+    "res/emoticon/9/13.png": {
+      "md5": "3506d550ad4d3e34e6e933cf5d5a3b1a"
+    }, 
+    "res/emoticon/9/14.png": {
+      "md5": "41e303cc32401b8d34bf2213fd7182e4"
+    }, 
+    "res/emoticon/9/15.png": {
+      "md5": "41e303cc32401b8d34bf2213fd7182e4"
+    }, 
+    "res/emoticon/9/16.png": {
+      "md5": "07d979c589752e2ce96ad35a918823f8"
+    }, 
+    "res/emoticon/9/17.png": {
+      "md5": "07d979c589752e2ce96ad35a918823f8"
+    }, 
+    "res/emoticon/9/18.png": {
+      "md5": "5379145a755bc830e03891d645c86008"
+    }, 
+    "res/emoticon/9/19.png": {
+      "md5": "5379145a755bc830e03891d645c86008"
+    }, 
+    "res/emoticon/9/2.png": {
+      "md5": "469961214be8010575b913608484e13f"
+    }, 
+    "res/emoticon/9/20.png": {
+      "md5": "c606eec1a43bfab21955bbedee768e7d"
+    }, 
+    "res/emoticon/9/21.png": {
+      "md5": "c606eec1a43bfab21955bbedee768e7d"
+    }, 
+    "res/emoticon/9/22.png": {
+      "md5": "c606eec1a43bfab21955bbedee768e7d"
+    }, 
+    "res/emoticon/9/23.png": {
+      "md5": "c606eec1a43bfab21955bbedee768e7d"
+    }, 
+    "res/emoticon/9/24.png": {
+      "md5": "c606eec1a43bfab21955bbedee768e7d"
+    }, 
+    "res/emoticon/9/25.png": {
+      "md5": "c606eec1a43bfab21955bbedee768e7d"
+    }, 
+    "res/emoticon/9/26.png": {
+      "md5": "ab5954751b3448c104226167cfcdaad9"
+    }, 
+    "res/emoticon/9/27.png": {
+      "md5": "fc6ecdb9d38bafd5d792b043b4e798a6"
+    }, 
+    "res/emoticon/9/28.png": {
+      "md5": "fc6ecdb9d38bafd5d792b043b4e798a6"
+    }, 
+    "res/emoticon/9/29.png": {
+      "md5": "ab5954751b3448c104226167cfcdaad9"
+    }, 
+    "res/emoticon/9/3.png": {
+      "md5": "62104133fc74aac0bd964bf50dea8839"
+    }, 
+    "res/emoticon/9/30.png": {
+      "md5": "fc6ecdb9d38bafd5d792b043b4e798a6"
+    }, 
+    "res/emoticon/9/31.png": {
+      "md5": "fc6ecdb9d38bafd5d792b043b4e798a6"
+    }, 
+    "res/emoticon/9/32.png": {
+      "md5": "ab5954751b3448c104226167cfcdaad9"
+    }, 
+    "res/emoticon/9/33.png": {
+      "md5": "fc6ecdb9d38bafd5d792b043b4e798a6"
+    }, 
+    "res/emoticon/9/34.png": {
+      "md5": "fc6ecdb9d38bafd5d792b043b4e798a6"
+    }, 
+    "res/emoticon/9/35.png": {
+      "md5": "71ba9efff5d7fd7cd50ae4a25b4fe4e1"
+    }, 
+    "res/emoticon/9/36.png": {
+      "md5": "814c35d24288d0d9e296a4e76517c266"
+    }, 
+    "res/emoticon/9/37.png": {
+      "md5": "71d372bb5a507558fc01759fe4b97f61"
+    }, 
+    "res/emoticon/9/38.png": {
+      "md5": "71d372bb5a507558fc01759fe4b97f61"
+    }, 
+    "res/emoticon/9/39.png": {
+      "md5": "71d372bb5a507558fc01759fe4b97f61"
+    }, 
+    "res/emoticon/9/4.png": {
+      "md5": "d4776b1c893fd35bd685e700130de6f7"
+    }, 
+    "res/emoticon/9/40.png": {
+      "md5": "71d372bb5a507558fc01759fe4b97f61"
+    }, 
+    "res/emoticon/9/41.png": {
+      "md5": "71d372bb5a507558fc01759fe4b97f61"
+    }, 
+    "res/emoticon/9/42.png": {
+      "md5": "71d372bb5a507558fc01759fe4b97f61"
+    }, 
+    "res/emoticon/9/43.png": {
+      "md5": "71d372bb5a507558fc01759fe4b97f61"
+    }, 
+    "res/emoticon/9/44.png": {
+      "md5": "71d372bb5a507558fc01759fe4b97f61"
+    }, 
+    "res/emoticon/9/45.png": {
+      "md5": "71d372bb5a507558fc01759fe4b97f61"
+    }, 
+    "res/emoticon/9/5.png": {
+      "md5": "6d53480599f4c6e3b0876fd0fe013c92"
+    }, 
+    "res/emoticon/9/6.png": {
+      "md5": "10f80917a11943c6ad4b20c1c32b8d3d"
+    }, 
+    "res/emoticon/9/7.png": {
+      "md5": "5635a1c6a29ed71973365972c584fb28"
+    }, 
+    "res/emoticon/9/8.png": {
+      "md5": "2da62a0f6d587f7da5d96d818afab3e3"
+    }, 
+    "res/emoticon/9/9.png": {
+      "md5": "d5693ec64ac0e3d46d32ce21b55860b0"
+    }, 
+    "res/emoticon/9/icon.png": {
+      "md5": "f08a475e84ae25c1c9f321fb578b710e"
+    }, 
+    "res/fonts/banbenhao.png": {
+      "md5": "d5e745ef5c20fc1c8d1a3a040861105b"
+    }, 
+    "res/fonts/bei_white.png": {
+      "md5": "d1786cd211ca86eecc1a5196c46a0ec1"
+    }, 
+    "res/fonts/bei_yellow.png": {
+      "md5": "80164eacb6deebeb5f97c1780d3dd3ca"
+    }, 
+    "res/fonts/dong_white.png": {
+      "md5": "959a0b107bcb3a2a545c6b124a0e7856"
+    }, 
+    "res/fonts/dong_yellow.png": {
+      "md5": "a94333f80919b7288c1e5ea6e96280ee"
+    }, 
+    "res/fonts/feng_1_1.png": {
+      "md5": "4a2b16d62acf43d4018dc7eab2507564"
+    }, 
+    "res/fonts/feng_2_1.png": {
+      "md5": "c03a892f930ad06d0dfb7179b0f1ab72"
+    }, 
+    "res/fonts/feng_3_1.png": {
+      "md5": "8e99b7a4fc2a38961b48adfcb7bcdb0b"
+    }, 
+    "res/fonts/feng_4_1.png": {
+      "md5": "7d2c2a45b4238b1e3a0dd3e5d42c4ae3"
+    }, 
+    "res/fonts/guanfangweixin.png": {
+      "md5": "3701d47a82c469db507d7a09636dfb47"
+    }, 
+    "res/fonts/guangfangweixin2.png": {
+      "md5": "6108e0868bcca5f6a7a9a5bb3e4d2383"
+    }, 
+    "res/fonts/lixian.png": {
+      "md5": "e0980dee356d811e4e88f834c501be6a"
+    }, 
+    "res/fonts/nan_white.png": {
+      "md5": "e9e7c6517e964dd78ae0ff46f70ede24"
+    }, 
+    "res/fonts/nan_yellow.png": {
+      "md5": "37648d9ca43f79d5a8793a76cf170d0d"
+    }, 
+    "res/fonts/tianyoumajiang.png": {
+      "md5": "3b577cb3a9d288431d70e5366b999960"
+    }, 
+    "res/fonts/tianyouqipai.png": {
+      "md5": "c53753a76b76a1eeb77e923afc5f5f07"
+    }, 
+    "res/fonts/xi_white.png": {
+      "md5": "003915efdbc565cd3f9dc61a2cf4ab3c"
+    }, 
+    "res/fonts/xi_yellow.png": {
+      "md5": "23f0708b8228b31488de4a556ef1bad7"
+    }, 
+    "res/game.zip": {
+      "md5": "35b9168bdba123c20058ebc67e9973a3"
+    }, 
+    "res/hall_reconnect_dialog.json": {
+      "md5": "67912307385bfcf0c761203a154b3c11"
+    }, 
+    "res/help_dialog.json": {
+      "md5": "be3cf160e10b30597588025bcd71eedb"
+    }, 
+    "res/history_record_dialog.json": {
+      "md5": "671f95bcb35f2df92ed63456dc873a38"
+    }, 
+    "res/history_record_item.json": {
+      "md5": "79bb2140763cb7850e15630a00de2940"
+    }, 
+    "res/horn_view.json": {
+      "md5": "12e19eabde7c4a57b69a0bd3be58c0f1"
+    }, 
+    "res/icon/share_icon.png": {
+      "md5": "a23ad96d033dcfb58a2b1a521b2c66d7"
+    }, 
+    "res/invite_dialog.json": {
+      "md5": "dc5b0f4c7b3940c3a951d913dac299c2"
+    }, 
+    "res/join_room_dialog.json": {
+      "md5": "30bbdd06653d0e57a35912cbe6abfa5c"
+    }, 
+    "res/loading_view.json": {
+      "md5": "855b5c089340e743ee4521d925473230"
+    }, 
+    "res/login_scene.json": {
+      "md5": "94544c32631588c85f297891adee53de"
+    }, 
+    "res/main_scene.json": {
+      "md5": "ca885b9c7bc05135dc3fc73be92e1063"
+    }, 
+    "res/majiang/majiang_1.png": {
+      "md5": "811ea7bdc3c9de8baf804bfd2560be44"
+    }, 
+    "res/majiang/majiang_10.png": {
+      "md5": "469e1d99e25458a85791a4306fc87b51"
+    }, 
+    "res/majiang/majiang_11.png": {
+      "md5": "e413e68161e4f2dc399b6f79c2634f36"
+    }, 
+    "res/majiang/majiang_2.png": {
+      "md5": "e10f37c4693c2fbf46504b2aa2fa9285"
+    }, 
+    "res/majiang/majiang_3.png": {
+      "md5": "f45d3f78ecbcd8136c544b27dd4152fc"
+    }, 
+    "res/majiang/majiang_4.png": {
+      "md5": "7f70730c221915df4d3cbd9dd23718d3"
+    }, 
+    "res/majiang/majiang_5.png": {
+      "md5": "a85c4d34ebc4cf2b0a8ab158fbbe40fd"
+    }, 
+    "res/majiang/majiang_6.png": {
+      "md5": "621ac09a3cb5ba88c2538594d3be09f1"
+    }, 
+    "res/majiang/majiang_7.png": {
+      "md5": "820e7c21d104d6eed429009fa46a663d"
+    }, 
+    "res/majiang/majiang_8.png": {
+      "md5": "d43dedbb514a2e95d5e1def07028c30d"
+    }, 
+    "res/majiang/majiang_9.png": {
+      "md5": "6443c6dc40bfb6dedcdfd011523b1fa9"
+    }, 
+    "res/majiang/my_hand_1_0x00.png": {
+      "md5": "e7ce9244370d3168902fee54d36e0e29"
+    }, 
+    "res/majiang/my_hand_1_0x00_1.png": {
+      "md5": "e7ce9244370d3168902fee54d36e0e29"
+    }, 
+    "res/majiang/my_hand_1_0x01.png": {
+      "md5": "cb8851460d4aea6deb1b162110022185"
+    }, 
+    "res/majiang/my_hand_1_0x01_1.png": {
+      "md5": "44df8868fde611365eb3d39b70f87af0"
+    }, 
+    "res/majiang/my_hand_1_0x02.png": {
+      "md5": "dde42f4881a7e784ffc49a33dcc595a7"
+    }, 
+    "res/majiang/my_hand_1_0x02_1.png": {
+      "md5": "4728f94fe81d880afa3ec88894e63eb3"
+    }, 
+    "res/majiang/my_hand_1_0x03.png": {
+      "md5": "89b39efe58fd38ca691650931beadb73"
+    }, 
+    "res/majiang/my_hand_1_0x03_1.png": {
+      "md5": "9ed4a50be1d7d9c0b4e7b90087528ef1"
+    }, 
+    "res/majiang/my_hand_1_0x04.png": {
+      "md5": "9b169f39a3a169fed729b9067734286c"
+    }, 
+    "res/majiang/my_hand_1_0x04_1.png": {
+      "md5": "13d240368b6d386bfa6df6b74b0d01a1"
+    }, 
+    "res/majiang/my_hand_1_0x05.png": {
+      "md5": "420c373e67a1b8797fc55fc96c8c5a89"
+    }, 
+    "res/majiang/my_hand_1_0x05_1.png": {
+      "md5": "86b1419750fbc1aa324e1ae17b0a1e6d"
+    }, 
+    "res/majiang/my_hand_1_0x06.png": {
+      "md5": "eadbd92cbd3a6028fb5b087793846af6"
+    }, 
+    "res/majiang/my_hand_1_0x06_1.png": {
+      "md5": "3e3bafe27902f5b3960e01ae808a18b6"
+    }, 
+    "res/majiang/my_hand_1_0x07.png": {
+      "md5": "688d5df6ccbe3673d033290564cb078c"
+    }, 
+    "res/majiang/my_hand_1_0x07_1.png": {
+      "md5": "d458f65ce49fb18ec1e295605f165aec"
+    }, 
+    "res/majiang/my_hand_1_0x08.png": {
+      "md5": "406fd76f2076d52a8ce9470a0b9282ec"
+    }, 
+    "res/majiang/my_hand_1_0x08_1.png": {
+      "md5": "9a347807b5f513e1e13d0c3eb67eaff9"
+    }, 
+    "res/majiang/my_hand_1_0x09.png": {
+      "md5": "d267e6a9f9badfec12c7733361e79710"
+    }, 
+    "res/majiang/my_hand_1_0x09_1.png": {
+      "md5": "dd96e4be7cd37bc7b8a785da1172d0ee"
+    }, 
+    "res/majiang/my_hand_1_0x11.png": {
+      "md5": "8a6288c35a4afeafd1a1688855ba3340"
+    }, 
+    "res/majiang/my_hand_1_0x11_1.png": {
+      "md5": "2532d07a168dfa8599b3266191c164fe"
+    }, 
+    "res/majiang/my_hand_1_0x12.png": {
+      "md5": "818125bf2fa401c23eb241689bce0806"
+    }, 
+    "res/majiang/my_hand_1_0x12_1.png": {
+      "md5": "dc89fda95543770d02f940dd1c52ac43"
+    }, 
+    "res/majiang/my_hand_1_0x13.png": {
+      "md5": "e68ec45fafb05456a8f1c4d40548dd88"
+    }, 
+    "res/majiang/my_hand_1_0x13_1.png": {
+      "md5": "e495336634e8e9ac95bab17a88db8401"
+    }, 
+    "res/majiang/my_hand_1_0x14.png": {
+      "md5": "fd9a2220a9297a5b09f4cf4c4b2a5113"
+    }, 
+    "res/majiang/my_hand_1_0x14_1.png": {
+      "md5": "8d10ade36692eacc3f1a97736bc8bebf"
+    }, 
+    "res/majiang/my_hand_1_0x15.png": {
+      "md5": "5ff20940289cf2cf42085416de6abacc"
+    }, 
+    "res/majiang/my_hand_1_0x15_1.png": {
+      "md5": "b2057b8cd058657e8312ff1920a5723f"
+    }, 
+    "res/majiang/my_hand_1_0x16.png": {
+      "md5": "660ba4b894cf31a425d4b88125974598"
+    }, 
+    "res/majiang/my_hand_1_0x16_1.png": {
+      "md5": "9c84e66811a8cc0396a666599ad760c9"
+    }, 
+    "res/majiang/my_hand_1_0x17.png": {
+      "md5": "53eb4d12eb577ab504d240b217adfb06"
+    }, 
+    "res/majiang/my_hand_1_0x17_1.png": {
+      "md5": "fbdf00d1d948cde4f89993bcbc010f98"
+    }, 
+    "res/majiang/my_hand_1_0x18.png": {
+      "md5": "b59567a5f24fad67054150c231e96ec7"
+    }, 
+    "res/majiang/my_hand_1_0x18_1.png": {
+      "md5": "15e75e969f77d5928e85c810d25151c7"
+    }, 
+    "res/majiang/my_hand_1_0x19.png": {
+      "md5": "9771d87c15e2b5b74a497f5ff8b24dce"
+    }, 
+    "res/majiang/my_hand_1_0x19_1.png": {
+      "md5": "fc6e8a6e997d2a8c54ed1d314dfd6206"
+    }, 
+    "res/majiang/my_hand_1_0x21.png": {
+      "md5": "ca19d4663728da908d97db4b195fea6f"
+    }, 
+    "res/majiang/my_hand_1_0x21_1.png": {
+      "md5": "1d95373c1e0cf97792e0eadb92f61398"
+    }, 
+    "res/majiang/my_hand_1_0x22.png": {
+      "md5": "76f2a5d86d4e461463e16032b91b00a6"
+    }, 
+    "res/majiang/my_hand_1_0x22_1.png": {
+      "md5": "e4763d6caf49798e00c355b2d16e3d0b"
+    }, 
+    "res/majiang/my_hand_1_0x23.png": {
+      "md5": "c9b3864ecc70176d1c3e86f8f3dc0ccd"
+    }, 
+    "res/majiang/my_hand_1_0x23_1.png": {
+      "md5": "2b2118d6f255793d0c815b7b33f08b7a"
+    }, 
+    "res/majiang/my_hand_1_0x24.png": {
+      "md5": "93e2b69023c17a421eeee1de4d5bc665"
+    }, 
+    "res/majiang/my_hand_1_0x24_1.png": {
+      "md5": "d92d5dd0cd4b0f28933378e218b29d21"
+    }, 
+    "res/majiang/my_hand_1_0x25.png": {
+      "md5": "e1c252f17dc5827b303bc23800ed2a4b"
+    }, 
+    "res/majiang/my_hand_1_0x25_1.png": {
+      "md5": "d21609fabb06209fd6f2aa5ee46da494"
+    }, 
+    "res/majiang/my_hand_1_0x26.png": {
+      "md5": "ffb0a78b994d3eac116ba6fc07e3b8d9"
+    }, 
+    "res/majiang/my_hand_1_0x26_1.png": {
+      "md5": "f9b07e4e690e4f647accb92c1ecc21f5"
+    }, 
+    "res/majiang/my_hand_1_0x27.png": {
+      "md5": "d389ee346ce61f38cebb3eb981e85336"
+    }, 
+    "res/majiang/my_hand_1_0x27_1.png": {
+      "md5": "26615572809c9ccb5ac03f16b2e48396"
+    }, 
+    "res/majiang/my_hand_1_0x28.png": {
+      "md5": "f8b2a6101778e874aa4c31f2634808a5"
+    }, 
+    "res/majiang/my_hand_1_0x28_1.png": {
+      "md5": "3953d9ae4c99cdf55d67928402cfc7e1"
+    }, 
+    "res/majiang/my_hand_1_0x29.png": {
+      "md5": "1b45413bc2440e7adce1be1b003e75ac"
+    }, 
+    "res/majiang/my_hand_1_0x29_1.png": {
+      "md5": "41314eeb7111c6a825135c6ffd9370c7"
+    }, 
+    "res/majiang/my_hand_1_0x31.png": {
+      "md5": "411e70efab8a047c21b1480f6688b5fa"
+    }, 
+    "res/majiang/my_hand_1_0x31_1.png": {
+      "md5": "e32a3688442b44c96a4aa6ff44e57af8"
+    }, 
+    "res/majiang/my_hand_1_0x32.png": {
+      "md5": "db8e4d749d2420744057177ea6607a6a"
+    }, 
+    "res/majiang/my_hand_1_0x32_1.png": {
+      "md5": "8bbd5b9b6d45353ff422903184022835"
+    }, 
+    "res/majiang/my_hand_1_0x33.png": {
+      "md5": "27036489fc80a365fb6e8cc3805084f8"
+    }, 
+    "res/majiang/my_hand_1_0x33_1.png": {
+      "md5": "71779be2d3469a5f4692f9428c3d8575"
+    }, 
+    "res/majiang/my_hand_1_0x34.png": {
+      "md5": "32916f751ddbce4664df64da24729a27"
+    }, 
+    "res/majiang/my_hand_1_0x34_1.png": {
+      "md5": "da9946b3b33a43137880c89a3a6f8544"
+    }, 
+    "res/majiang/my_hand_1_0x41.png": {
+      "md5": "09114fd61a92cd3fee06dd56f2ffb57e"
+    }, 
+    "res/majiang/my_hand_1_0x41_1.png": {
+      "md5": "06d47b857082643d64193cd5fbe4cee9"
+    }, 
+    "res/majiang/my_hand_1_0x42.png": {
+      "md5": "9290216db203407a36df87611b4c1eef"
+    }, 
+    "res/majiang/my_hand_1_0x42_1.png": {
+      "md5": "40a1c559b54e2df1a692ad47e0d0b2f7"
+    }, 
+    "res/majiang/my_hand_1_0x43.png": {
+      "md5": "d3321aacee9cadd0b56cec1133a4644b"
+    }, 
+    "res/majiang/my_hand_1_0x43_1.png": {
+      "md5": "c9dd6f3c8725128141ada1ba229c3d45"
+    }, 
+    "res/notice_dialog.json": {
+      "md5": "bdd5f8c73502094391f2285ca1d2fe02"
+    }, 
+    "res/number/banben_46.png": {
+      "md5": "dd0129f3d7a9e57e5ffe60e2b9d1ced5"
+    }, 
+    "res/number/banben_48.png": {
+      "md5": "a9bd892e36d5353c2f7a60a1b66fed62"
+    }, 
+    "res/number/banben_49.png": {
+      "md5": "187b89fed21098f73b88c256105afd3c"
+    }, 
+    "res/number/banben_50.png": {
+      "md5": "25d5940a66fa7f5a92767611014f62e7"
+    }, 
+    "res/number/banben_51.png": {
+      "md5": "ffd163eb0c03954419f0b456aa7df71c"
+    }, 
+    "res/number/banben_52.png": {
+      "md5": "8fff61d13e25fee8db6c97b312c6523e"
+    }, 
+    "res/number/banben_53.png": {
+      "md5": "d66ef427d130a28ff0761023833954b9"
+    }, 
+    "res/number/banben_54.png": {
+      "md5": "9a6d697157b53ca7bbf558ff79d7ce50"
+    }, 
+    "res/number/banben_55.png": {
+      "md5": "17e20e5336479b343f07e987cf19bda1"
+    }, 
+    "res/number/banben_56.png": {
+      "md5": "cadbee3b9746fa4cdf31a685fbd9dcc7"
+    }, 
+    "res/number/banben_57.png": {
+      "md5": "4603d313ff69c5ed3105554f9363f186"
+    }, 
+    "res/number/gem_48.png": {
+      "md5": "a74779cb71e16f6d2dd82cae98c48119"
+    }, 
+    "res/number/gem_49.png": {
+      "md5": "f7a91ae9256ebb9d5fc545d3399b4706"
+    }, 
+    "res/number/gem_50.png": {
+      "md5": "65c9ab269143221c354f9044710534fd"
+    }, 
+    "res/number/gem_51.png": {
+      "md5": "a51a89eb965e52fe24044470a867b38f"
+    }, 
+    "res/number/gem_52.png": {
+      "md5": "7b770983089e8a8136579a803b68f1bb"
+    }, 
+    "res/number/gem_53.png": {
+      "md5": "5abb6415738144c0d9d270d2062eacf9"
+    }, 
+    "res/number/gem_54.png": {
+      "md5": "fef999b7473438c3084879479dde2138"
+    }, 
+    "res/number/gem_55.png": {
+      "md5": "3f5a8fdd1da25c36909d95cfc353197a"
+    }, 
+    "res/number/gem_56.png": {
+      "md5": "0411fe6d57c1728db7c084bf784d3a60"
+    }, 
+    "res/number/gem_57.png": {
+      "md5": "73e0ce64430b3195fa2dadc495b0db87"
+    }, 
+    "res/number/gem_yuan.png": {
+      "md5": "e29164719ededcb19ec04f49f9564b64"
+    }, 
+    "res/number/room_0.png": {
+      "md5": "db0efa0264ebdbcca7d6c97b21ea1cc5"
+    }, 
+    "res/number/room_1.png": {
+      "md5": "a2e3f96bc2619cc76c344953b426e3e0"
+    }, 
+    "res/number/room_2.png": {
+      "md5": "9357b8942ade505508df62452a4a97e4"
+    }, 
+    "res/number/room_3.png": {
+      "md5": "807aa49bf3a47ba5493b77bc6d06482d"
+    }, 
+    "res/number/room_4.png": {
+      "md5": "5a3a28ac2c077f20fe507e104e2f3b86"
+    }, 
+    "res/number/room_5.png": {
+      "md5": "cb204a96d943cd0b23ac144bc9fecaec"
+    }, 
+    "res/number/room_6.png": {
+      "md5": "e9f3a055eab0b3539117c0eb492da746"
+    }, 
+    "res/number/room_7.png": {
+      "md5": "0bc1ea67ceb43ac4d31b87181e1510b7"
+    }, 
+    "res/number/room_8.png": {
+      "md5": "71446f4a74fe6f0b2d7c07cad243a585"
+    }, 
+    "res/number/room_9.png": {
+      "md5": "f24ef9ee1fe78b088f1fcb60b9ad034d"
+    }, 
+    "res/number/yellow_0.png": {
+      "md5": "45499fad8b51157c0a2ecb6b8519a468"
+    }, 
+    "res/number/yellow_1.png": {
+      "md5": "1eab79f24e02a7a09552b7d0ffb57bc6"
+    }, 
+    "res/number/yellow_2.png": {
+      "md5": "098ec950db4a1bbc5f89f1e6313e7c8c"
+    }, 
+    "res/number/yellow_3.png": {
+      "md5": "de76a49e9456ddd591ab8eaedca88ca5"
+    }, 
+    "res/number/yellow_4.png": {
+      "md5": "f412b549b469bd64d4071bc319246b4b"
+    }, 
+    "res/number/yellow_5.png": {
+      "md5": "a95eda78d3a6fa02145c8d74835399c1"
+    }, 
+    "res/number/yellow_6.png": {
+      "md5": "3a2c7e2c20c4ef02a89eb779c039b93f"
+    }, 
+    "res/number/yellow_7.png": {
+      "md5": "c5107ab693b048fcb06db7f504c07700"
+    }, 
+    "res/number/yellow_8.png": {
+      "md5": "81339794f1b14112cb9f57786f92b82b"
+    }, 
+    "res/number/yellow_9.png": {
+      "md5": "ab4cf51964c16e732756d14c4068de5f"
+    }, 
+    "res/number/zongjiesuan_green_43.png": {
+      "md5": "c242882168acfd68d2e9548ac5b088f2"
+    }, 
+    "res/number/zongjiesuan_green_45.png": {
+      "md5": "f3fbe015b9971f53667e016371b00def"
+    }, 
+    "res/number/zongjiesuan_green_48.png": {
+      "md5": "1b0bf5c2f86f041e7eb212abf8afdb46"
+    }, 
+    "res/number/zongjiesuan_green_49.png": {
+      "md5": "e6f6e9275e2ee9e1990b1cabe0abdbe8"
+    }, 
+    "res/number/zongjiesuan_green_50.png": {
+      "md5": "2d2cdb0129a65ddc2e2794edab44b11b"
+    }, 
+    "res/number/zongjiesuan_green_51.png": {
+      "md5": "d70a6e194aff20426d8b6a14b6402bfa"
+    }, 
+    "res/number/zongjiesuan_green_52.png": {
+      "md5": "91c1863f4f7cf41da1529f4d022f48f9"
+    }, 
+    "res/number/zongjiesuan_green_53.png": {
+      "md5": "13859ef89d85dd9191323bbf5afd079e"
+    }, 
+    "res/number/zongjiesuan_green_54.png": {
+      "md5": "4fe3fceaadd89f0699b8f67d9005f0dd"
+    }, 
+    "res/number/zongjiesuan_green_55.png": {
+      "md5": "ab8cecf9ce1debc623dff618ac6fb37b"
+    }, 
+    "res/number/zongjiesuan_green_56.png": {
+      "md5": "08a1c1adabe6cb0f081dccdc98b89373"
+    }, 
+    "res/number/zongjiesuan_green_57.png": {
+      "md5": "ddff3f90923712ea062773e0e7e4e300"
+    }, 
+    "res/number/zongjiesuan_red_43.png": {
+      "md5": "e03e62a7279bc4786edcb7bcedd486d5"
+    }, 
+    "res/number/zongjiesuan_red_45.png": {
+      "md5": "3eba12338e958b91d47829f667f1d365"
+    }, 
+    "res/number/zongjiesuan_red_48.png": {
+      "md5": "b444ab7682f466a77e3466d65fb3dc28"
+    }, 
+    "res/number/zongjiesuan_red_49.png": {
+      "md5": "67944c7952a28e8924b1260d19b99d1e"
+    }, 
+    "res/number/zongjiesuan_red_50.png": {
+      "md5": "81ae1aacf6d7afe0d748b6e40dbefe11"
+    }, 
+    "res/number/zongjiesuan_red_51.png": {
+      "md5": "d74167e3a325b012c5b47b6ded0f3d10"
+    }, 
+    "res/number/zongjiesuan_red_52.png": {
+      "md5": "bd1869ecdad74ee1a21b9d48dfea1bb3"
+    }, 
+    "res/number/zongjiesuan_red_53.png": {
+      "md5": "45c13688fd72177abd51129b9b57f619"
+    }, 
+    "res/number/zongjiesuan_red_54.png": {
+      "md5": "6a755d024e6d65485ad041f271ba9465"
+    }, 
+    "res/number/zongjiesuan_red_55.png": {
+      "md5": "4ad3c9bd687cebdbcd0695b878caa11a"
+    }, 
+    "res/number/zongjiesuan_red_56.png": {
+      "md5": "de7fd41371ea1e01f8f0d080f75005fa"
+    }, 
+    "res/number/zongjiesuan_red_57.png": {
+      "md5": "736ea5a491d36aa89dfd487058af0a33"
+    }, 
+    "res/record_dialog.json": {
+      "md5": "e29733c8e0aae45811f7b7471cd69bed"
+    }, 
+    "res/record_item.json": {
+      "md5": "f20da562d549f12fac45f6c59861572e"
+    }, 
+    "res/room_msg_view.json": {
+      "md5": "5236ffa0bc2588a84b32d053bc98bf34"
+    }, 
+    "res/room_over_apply_dialog.json": {
+      "md5": "7d05f539c9d10e0080298235057ecb4e"
+    }, 
+    "res/room_reconnect_dialog.json": {
+      "md5": "96b506f696474e00f960afcbf6dc5a14"
+    }, 
+    "res/room_scene.json": {
+      "md5": "7aa79450b04d44424b1b3b036713f7a5"
+    }, 
+    "res/seat_view.json": {
+      "md5": "b98a1d9475b3ee8b1cc9e9363f7062e7"
+    }, 
+    "res/setting_dialog.json": {
+      "md5": "36fb56724a347bd631250dd83f1ed006"
+    }, 
+    "res/setting_dialog_2.json": {
+      "md5": "bd2c4709c7d3aa01d28c445447879cfc"
+    }, 
+    "res/shaizi/shaizi.png": {
+      "md5": "bdfd9a49b79b594c9974bb3151d26e5d"
+    }, 
+    "res/shaizi/shaizi_1.png": {
+      "md5": "f956b4096c39783066ef8f7293603e29"
+    }, 
+    "res/shaizi/shaizi_10.png": {
+      "md5": "99a568d02f070fe0341f7b4d91775e2f"
+    }, 
+    "res/shaizi/shaizi_11.png": {
+      "md5": "9dad1a9fd6ebadcf30f19fbbb179be20"
+    }, 
+    "res/shaizi/shaizi_12.png": {
+      "md5": "7b27d702fa3dc3f3001e54f0039caf95"
+    }, 
+    "res/shaizi/shaizi_13.png": {
+      "md5": "cefb03cc9a6ee79f12f4e09d8c998a57"
+    }, 
+    "res/shaizi/shaizi_14.png": {
+      "md5": "d74d8cbd6f6176e0ee36a697bdd5b365"
+    }, 
+    "res/shaizi/shaizi_15.png": {
+      "md5": "db7bfa028b67fc19beb389d583e2cdc1"
+    }, 
+    "res/shaizi/shaizi_16.png": {
+      "md5": "e1a2c4739fabd38fd98ac8c8a427931f"
+    }, 
+    "res/shaizi/shaizi_17.png": {
+      "md5": "e36c2b621d2601201e75a82d4fd2ca9b"
+    }, 
+    "res/shaizi/shaizi_18.png": {
+      "md5": "e935b0a827ad53f4ef19a5deb3487668"
+    }, 
+    "res/shaizi/shaizi_19.png": {
+      "md5": "d8b130da63f03d21b5c34cbce4cdbda5"
+    }, 
+    "res/shaizi/shaizi_2.png": {
+      "md5": "0a2c81fb5c328740caf05b1d122d4044"
+    }, 
+    "res/shaizi/shaizi_20.png": {
+      "md5": "92c8ec58222ec437d2db14658ed4b8f2"
+    }, 
+    "res/shaizi/shaizi_21.png": {
+      "md5": "87768d74170a2479db7b07d44d8c042c"
+    }, 
+    "res/shaizi/shaizi_22.png": {
+      "md5": "f37bd5c14094619f6e49ab5c6e028b27"
+    }, 
+    "res/shaizi/shaizi_23.png": {
+      "md5": "afa6c3ab63f96ab9c1eae46e556bd810"
+    }, 
+    "res/shaizi/shaizi_24.png": {
+      "md5": "285726b4346f3b27a674689a39c415de"
+    }, 
+    "res/shaizi/shaizi_25.png": {
+      "md5": "e47ba82bdb3bd2d4765f9fee1361fa29"
+    }, 
+    "res/shaizi/shaizi_26.png": {
+      "md5": "48c26773223b8ca28e269464869d9664"
+    }, 
+    "res/shaizi/shaizi_3.png": {
+      "md5": "00cb8fe3c12d29cf399ce488d2043e02"
+    }, 
+    "res/shaizi/shaizi_4.png": {
+      "md5": "161f0bad4b619e10050ca9b66ca70a90"
+    }, 
+    "res/shaizi/shaizi_5.png": {
+      "md5": "04a24a02454d02c4e30ff2d05262c58d"
+    }, 
+    "res/shaizi/shaizi_6.png": {
+      "md5": "9877f48328e200faf7d55e7b314b412f"
+    }, 
+    "res/shaizi/shaizi_7.png": {
+      "md5": "ee73b9867cfecc97bceb9215e3749e2a"
+    }, 
+    "res/shaizi/shaizi_8.png": {
+      "md5": "e95fedb91d8d96f3de516ddb50ccd3d7"
+    }, 
+    "res/shaizi/shaizi_9.png": {
+      "md5": "10402f023a7c4ac98846eedaa45419b3"
+    }, 
+    "res/shaizi/shaizi_icon_1.png": {
+      "md5": "530b667a942f64d9877ee9e19414ca08"
+    }, 
+    "res/shaizi/shaizi_icon_2.png": {
+      "md5": "167168840b18f8b21198de9597a0ec6f"
+    }, 
+    "res/shaizi/shaizi_icon_3.png": {
+      "md5": "9e41a3dd0d615e40334fc7720d6e43d0"
+    }, 
+    "res/shaizi/shaizi_icon_4.png": {
+      "md5": "4aeecc6d18dc9091fe2a59dab1615c99"
+    }, 
+    "res/shaizi/shaizi_icon_5.png": {
+      "md5": "8ecb59d1b40b5b1c52c977210adf322a"
+    }, 
+    "res/shaizi/shaizi_icon_6.png": {
+      "md5": "b9db5f24052130da668f6996b211326a"
+    }, 
+    "res/shop_dialog.json": {
+      "md5": "9f4dccf4b3ea3918a52b88133aa23db3"
+    }, 
+    "res/speek_view.json": {
+      "md5": "125ae4282f5364b42327d42f32d5e37c"
+    }, 
+    "res/splash_scene.json": {
+      "md5": "7d2d22c49a9c137c4b0ccb3166887692"
+    }, 
+    "res/userinfo_dialog.json": {
+      "md5": "e6164653d9c9f5a5fc3328ff5254d0b1"
+    }, 
+    "res/userinfo_webview_dialog.json": {
+      "md5": "71e35d0e51f51d958960e32eeb1cc788"
+    }, 
+    "res/web_pay_dialog.json": {
+      "md5": "bd81a0b6d280edd7481b15bcb5585246"
+    }
+  }, 
+  "engineVersion": "Cocos2dx-lua 3.6.5", 
+  "packageUrl": "http://maj.woyaohaoyun.com/Public/app/updateapp/1.0.4/android/", 
+  "remoteManifestUrl": "http://maj.woyaohaoyun.com/Public/app/updateapp/1.0.4/android/res/project.manifest", 
+  "remoteVersionUrl": "http://maj.woyaohaoyun.com/Public/app/updateapp/1.0.4/android/res/version.manifest", 
+  "searchPaths": [], 
+  "version": "1.0.0"
+}

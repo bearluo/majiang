@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>E:\work\majang_texas</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>E:\work\majang_texas\Resources</Resources>
+  <Name>majang_texas</Name>
+  <JsonFileName>majang_texas.json</JsonFileName>
+  <JsonFolder>E:\work\majang_texas\Json</JsonFolder>
+  <JsonList>
+    <string>accounts_2_dialog.json</string>
+    <string>accounts_dialog.json</string>
+    <string>accounts_item.json</string>
+    <string>action_btn_view.json</string>
+    <string>create_room_dialog.json</string>
+    <string>help_dialog.json</string>
+    <string>invite_dialog.json</string>
+    <string>join_room_dialog.json</string>
+    <string>loading_view.json</string>
+    <string>login_scene.json</string>
+    <string>main_scene.json</string>
+    <string>notice_dialog.json</string>
+    <string>room_scene.json</string>
+    <string>seat_view.json</string>
+    <string>setting_dialog.json</string>
+    <string>shop_dialog.json</string>
+    <string>splash_scene.json</string>
+    <string>actions_select_view.json</string>
+    <string>choose_dialog.json</string>
+    <string>room_over_apply_dialog.json</string>
+    <string>hall_reconnect_dialog.json</string>
+    <string>room_reconnect_dialog.json</string>
+    <string>speek_view.json</string>
+    <string>record_dialog.json</string>
+    <string>record_item.json</string>
+    <string>userinfo_dialog.json</string>
+    <string>userinfo_webview_dialog.json</string>
+    <string>history_record_dialog.json</string>
+    <string>history_record_item.json</string>
+    <string>web_pay_dialog.json</string>
+    <string>setting_dialog_2.json</string>
+    <string>horn_view.json</string>
+    <string>activity_dialog.json</string>
+    <string>room_msg_view.json</string>
+    <string>majang_texas_35.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1280</Width>
+    <Height>720</Height>
+  </CanvasSize>
+  <filePath>E:\work\majang_texas\majang_texas.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList />
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>majang_texas_35.json</CurrentUIJson>
+</UIProject>

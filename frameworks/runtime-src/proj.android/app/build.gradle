@@ -1,0 +1,59 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 25
+    buildToolsVersion '25.0.0'
+    useLibrary 'org.apache.http.legacy'
+
+    defaultConfig {
+        applicationId "com.tianyou.cangzhoumajiang"
+        minSdkVersion 15
+        targetSdkVersion 15
+        versionCode 104
+        versionName "1.0.4"
+    }
+
+    signingConfigs {
+        release {
+            storeFile file('woyaoent.keystore')
+            storePassword "woyaopoker"
+            keyAlias "poker"
+            keyPassword "woyaopoker"
+        }
+    }
+
+    buildTypes {
+        debug {
+            signingConfig signingConfigs.release
+        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+    }
+
+    sourceSets.main {
+        jniLibs.srcDir 'libs'
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+    productFlavors {
+    }
+}
+repositories {
+    mavenCentral()
+}
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile project(':libcocos2dx')
+    //    compile 'com.facebook.fresco:fresco:0.7.0+'
+    //    compile 'com.android.support:appcompat-v7:25.3.1'
+//    compile 'com.facebook.android:facebook-android-sdk:[4,5)'
+    compile 'com.umeng.analytics:analytics:latest.integration'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile 'com.tencent.mm.opensdk:wechat-sdk-android-with-mta:+'
+}
+

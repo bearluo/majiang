@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGuidesProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GuidesProject>
+    <Project>login_scene</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>main_scene</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>splash_scene</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>room_scene</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>seat_view</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>join_room_dialog</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>loading_view</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>action_btn_view</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>setting_dialog</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>help_dialog</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>notice_dialog</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>create_room_dialog</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>shop_dialog</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>invite_dialog</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>accounts_dialog</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>accounts_item</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>accounts_2_dialog</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>actions_select_view</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>choose_dialog</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>room_over_apply_dialog</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>hall_reconnect_dialog</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>room_reconnect_dialog</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>speek_view</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>majang_texas_24</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>record_dialog</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>record_item</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>majang_texas_26</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>userinfo_dialog</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>userinfo_webview_dialog</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>history_record_dialog</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>history_record_item</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>web_pay_dialog</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>setting_dialog_2</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>horn_view</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>activity_dialog</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>room_msg_view</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>majang_texas_35</Project>
+    <GuidesList />
+  </GuidesProject>
+</ArrayOfGuidesProject>
